@@ -1,0 +1,11 @@
+<map id="souffle::NormaliseConstraintsTransformer::transform" name="souffle::NormaliseConstraintsTransformer::transform">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_translation_unit.html#a85862a5fcfecdf63c7367926cdedde23" title="get the AST program " alt="" coords="268,5,461,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_program.html#a60f36f5095adbc63611de05e52075ff7" title="Get all relations in the program. " alt="" coords="289,71,440,112"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#ae4b6e248ec714e64f38ce032caf5f477" title="Returns whether the given clause is a fact. " alt="" coords="309,137,420,163"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_clause.html#ac48c0e4d469200abc80eb46e1dd5cf0b" title="Return the number of elements in the body of the Clause. " alt="" coords="524,64,663,105"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_clause.html#a5a29a4f9ba5d0e4aea869cf71a6efbbf" title="Return the atom that represents the head of the clause. " alt="" coords="524,129,663,171"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#a307bae61c898715dccb57c9732335000" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="509,195,677,222"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#a030c754119d60ea72cff8af5b62710e6" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="725,188,893,229"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ast_node.html#a07dd728cde93a2b1d72d987cf54cbd8e" title="Obtain a list of all embedded AST child nodes. " alt="" coords="941,188,1132,229"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ast_node.html#a118aba48ddc9006152aac63f08e0ff01" title="Output to a given output stream. " alt="" coords="1180,195,1347,222"/>
+</map>

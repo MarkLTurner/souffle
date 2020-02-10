@@ -1,0 +1,5 @@
+<map id="souffle::AstConstraint::getAtom" name="souffle::AstConstraint::getAtom">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_atom.html#a274d22e3c57da222d244c26f5937dd8a" title="Creates a clone of this AST sub&#45;structure. " alt="" coords="216,31,389,57"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_atom.html#a83a883b45da6862eb20186cd61b7a859" title="souffle::AstAtom::AstAtom" alt="" coords="440,5,635,32"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_node.html#ae84bf084ceca6ac36dc4be406f42870f" title="Return source location of the AstNode. " alt="" coords="437,56,637,83"/>
+</map>

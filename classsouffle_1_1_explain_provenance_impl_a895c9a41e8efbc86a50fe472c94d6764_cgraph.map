@@ -1,0 +1,19 @@
+<map id="souffle::ExplainProvenanceImpl::measureRelation" name="souffle::ExplainProvenanceImpl::measureRelation">
+<area shape="rect" id="node2" href="$classsouffle_1_1_explain_provenance_impl.html#a6a2be0f56901b2e958f6eeec093654c0" title="souffle::ExplainProvenance\lImpl::explain" alt="" coords="252,297,451,339"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_souffle_program.html#a8a5b114c5b6c8022c936a533248996e7" title="Get Relation by its name from relationMap, if relation not found, return a nullptr. " alt="" coords="761,348,936,389"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_symbol_table.html#a74e200201738bad69d948c014ec9db3e" title="Finds the index of a symbol in the table, giving an error if it&#39;s not found. " alt="" coords="770,523,927,564"/>
+<area shape="rect" id="node17" href="$namespacesouffle.html#a1c65551944c7ecf6f44ec851b49bdbb0" title="souffle::now" alt="" coords="301,690,402,717"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1_relation.html#a7943e499688e4c73e293ed9db53bc329" title="Get the number of tuples in a relation. " alt="" coords="271,741,432,767"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_souffle_program.html#a846c001c35e9b62eb032eb7f88fe2b2d" title="Execute a subroutine. " alt="" coords="519,5,693,47"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_relation.html#a8e8e6b38e1d621e9cccd365eaedbd7e1" title="Return the arity of a relation. " alt="" coords="539,457,673,499"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_relation.html#a8f1f622f85fe0c662f00c42d5416de14" title="Return the number of auxiliary attributes. " alt="" coords="539,523,673,564"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#a90eb741155c2a50d6028ac5cfb1bb64f" title="Determines whether arguments of constraint are numeric. " alt="" coords="515,188,697,229"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#abe4e3f19879707216a2758b03f4e2deb" title="Creates an object to be forwarded to some output stream for printing sequences of elements interspers..." alt="" coords="557,254,655,281"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_explain_provenance.html#a90bfce4c3b06bf9cbbfcf0ba689c01db" title="souffle::ExplainProvenance\l::numsToArgs" alt="" coords="507,123,705,164"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_symbol_table.html#a438d450330bc4128144f08c6ae0c4989" title="Find a symbol in the table by its index, note that this gives an error if the index is out of bounds..." alt="" coords="770,123,927,164"/>
+<area shape="rect" id="node14" href="$namespacesouffle.html#a673608e9453179d30f6607384f54463a" title="Splits a string given a delimiter. " alt="" coords="536,305,676,331"/>
+<area shape="rect" id="node15" href="$namespacesouffle.html#a399105b8de1698758c5b18bc9efca9fa" title="Converts symbolic representation of an operator to the operator. " alt="" coords="499,406,713,433"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_relation.html#aafe66b5dd0bb775432f884bc47741a52" title="Get the symbol table of a relation. " alt="" coords="781,5,916,47"/>
+<area shape="rect" id="node12" href="$structsouffle_1_1_lock.html#a0fe2edd3ac13a141851fa021716bae04" title="souffle::Lock::acquire" alt="" coords="984,305,1144,331"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_symbol_table.html#ab9b012e60e61e149cfc430a9eccc20ea" title="souffle::SymbolTable\l::size" alt="" coords="985,123,1143,164"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="souffle::isRecursiveClause" name="souffle::isRecursiveClause">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_clause.html#a1b5199df425ba5839383a75c5bb8a254" title="Obtains a copy of the internally maintained body literals. " alt="" coords="275,5,414,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_clause.html#a5a29a4f9ba5d0e4aea869cf71a6efbbf" title="Return the atom that represents the head of the clause. " alt="" coords="275,71,414,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_atom.html#a83a8f4fdc486c20a330570571ec34fb5" title="Return the name of this atom. " alt="" coords="245,137,444,163"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#a307bae61c898715dccb57c9732335000" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="261,187,429,214"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#a030c754119d60ea72cff8af5b62710e6" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="492,180,660,221"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_node.html#a07dd728cde93a2b1d72d987cf54cbd8e" title="Obtain a list of all embedded AST child nodes. " alt="" coords="708,180,899,221"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_node.html#a118aba48ddc9006152aac63f08e0ff01" title="Output to a given output stream. " alt="" coords="947,187,1113,214"/>
+</map>

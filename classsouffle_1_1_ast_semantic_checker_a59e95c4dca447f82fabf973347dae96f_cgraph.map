@@ -1,0 +1,51 @@
+<map id="souffle::AstSemanticChecker::getName" name="souffle::AstSemanticChecker::getName">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_semantic_checker.html#acf469bc1a217c9adb902e33133a29598" title="souffle::AstSemanticChecker\l::checkAggregator" alt="" coords="1292,366,1501,407"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_semantic_checker.html#a35c2dd2ad3042ec4bdb8c0a82f2ce729" title="souffle::AstSemanticChecker\l::checkLiteral" alt="" coords="1549,711,1759,753"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_semantic_checker.html#a80a06913da0df91dbff117d8d18f8f6c" title="souffle::AstSemanticChecker\l::checkArgument" alt="" coords="2088,153,2297,194"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_semantic_checker.html#affe04066a0980f8f58c1a7fb6005c879" title="souffle::AstSemanticChecker\l::checkAtom" alt="" coords="1813,325,2023,366"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_ast_semantic_checker.html#a0d2927a207efde795ff60240ac4de555" title="agg1, agg2 are clauses which contain no head, and consist of a single literal that contains an aggreg..." alt="" coords="1549,145,1759,186"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1_ast_semantic_checker.html#a818dc96fdd394f01b5330b8955b9426a" title="souffle::AstSemanticChecker\l::checkClause" alt="" coords="1292,1574,1501,1615"/>
+<area shape="rect" id="node21" href="$classsouffle_1_1_ast_semantic_checker.html#af64904f9dbb9d3296668cd7063c201ea" title="souffle::AstSemanticChecker\l::checkFact" alt="" coords="1549,1031,1759,1073"/>
+<area shape="rect" id="node23" href="$classsouffle_1_1_ast_semantic_checker.html#a6022eb7fde7632c8c20fe36b1ddcca3f" title="souffle::AstSemanticChecker\l::checkConstant" alt="" coords="1813,1861,2023,1902"/>
+<area shape="rect" id="node36" href="$classsouffle_1_1_ast_semantic_checker.html#a9465263c7eee247210360211ac3d2501" title="souffle::AstSemanticChecker\l::checkInlining" alt="" coords="1813,594,2023,635"/>
+<area shape="rect" id="node38" href="$classsouffle_1_1_ast_semantic_checker.html#a37ac19197603e886985f2732c57183e9" title="souffle::AstSemanticChecker\l::checkIODirectives" alt="" coords="1813,1234,2023,1275"/>
+<area shape="rect" id="node39" href="$classsouffle_1_1_ast_semantic_checker.html#a94b0173b16dfa3224da1a51416f76d2a" title="souffle::AstSemanticChecker\l::checkNamespaces" alt="" coords="1035,2167,1244,2209"/>
+<area shape="rect" id="node40" href="$classsouffle_1_1_ast_semantic_checker.html#ac8d1cde01f9a451af8c45c46b15f13dd" title="souffle::AstSemanticChecker\l::checkProgram" alt="" coords="520,1325,729,1366"/>
+<area shape="rect" id="node41" href="$classsouffle_1_1_ast_semantic_checker.html#a148eeccfa6a4772f3dc3118eb1488446" title="souffle::AstSemanticChecker\l::checkRules" alt="" coords="777,1574,987,1615"/>
+<area shape="rect" id="node42" href="$classsouffle_1_1_ast_semantic_checker.html#a4d5ff394e050231f985783afa86a8555" title="souffle::AstSemanticChecker\l::checkRelation" alt="" coords="1035,2089,1244,2130"/>
+<area shape="rect" id="node43" href="$classsouffle_1_1_ast_semantic_checker.html#aa6c3b81e692bd870fd5485a5d5de5123" title="souffle::AstSemanticChecker\l::checkRelationDeclaration" alt="" coords="1292,2333,1501,2374"/>
+<area shape="rect" id="node44" href="$classsouffle_1_1_ast_semantic_checker.html#ae07f7145eea98df7c1b2e07a9a87ad78" title="souffle::AstSemanticChecker\l::checkTypes" alt="" coords="777,2250,987,2291"/>
+<area shape="rect" id="node45" href="$classsouffle_1_1_ast_semantic_checker.html#a873c0e962a494a105840ffbf231fa93f" title="souffle::AstSemanticChecker\l::checkRecursiveUnionTypes" alt="" coords="1813,2177,2023,2218"/>
+<area shape="rect" id="node46" href="$classsouffle_1_1_ast_semantic_checker.html#ae3e93a39587655ba9d86ecb5168403b3" title="souffle::AstSemanticChecker\l::checkType" alt="" coords="1035,2695,1244,2737"/>
+<area shape="rect" id="node47" href="$classsouffle_1_1_ast_semantic_checker.html#a2e5de79daf558a1128d8962bd500906e" title="souffle::AstSemanticChecker\l::checkRecordType" alt="" coords="1813,2535,2023,2577"/>
+<area shape="rect" id="node48" href="$classsouffle_1_1_ast_semantic_checker.html#a2a7f03668dff6a5f623fc774d5845d9c" title="souffle::AstSemanticChecker\l::checkUnionType" alt="" coords="1813,2703,2023,2745"/>
+<area shape="rect" id="node49" href="$classsouffle_1_1_ast_semantic_checker.html#a482c93566cb1807d9c156b4920058d76" title="souffle::AstSemanticChecker\l::checkWitnessProblem" alt="" coords="1813,762,2023,803"/>
+<area shape="rect" id="node50" href="$classsouffle_1_1_ast_semantic_checker.html#a00e93ef2c05deb122000cc849c452710" title="souffle::AstSemanticChecker\l::transform" alt="" coords="263,1427,472,1469"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_error_report.html#a699dc9231cef74ac54573e3c79de7143" title="Adds an error with the given message and location. " alt="" coords="2119,1461,2266,1502"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_clause.html#aa9da90d931189d440bbe7b256e554f8d" title="Add a Literal to the body of the clause. " alt="" coords="1585,210,1723,251"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_ast_node.html#ae84bf084ceca6ac36dc4be406f42870f" title="Return source location of the AstNode. " alt="" coords="2093,2003,2293,2029"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_ast_literal.html#a8e7b7424c40acb87df022913c5928fd8" title="Creates a clone of this AST sub&#45;structure. " alt="" coords="1586,275,1722,317"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_ast_aggregator.html#a52adcf6071c53f92114ac3f45307ca18" title="Get body literals. " alt="" coords="1571,341,1737,382"/>
+<area shape="rect" id="node18" href="$namespacesouffle.html#a307bae61c898715dccb57c9732335000" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="2109,715,2277,741"/>
+<area shape="rect" id="node14" href="$namespacesouffle.html#a2c77d8cc2a9414cd6aeb5d02c74e162d" title="souffle::hasUnnamedVariable" alt="" coords="1811,1081,2025,1108"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_atom.html#a9c726c597d7921245dd97dcc72b8aeed" title="Provides access to the list of arguments of this atom. " alt="" coords="2077,336,2308,363"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ast_atom.html#a6728012e15c7e2be0b626c477c5018fd" title="Return the arity of the atom. " alt="" coords="2097,285,2288,312"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ast_atom.html#a83a8f4fdc486c20a330570571ec34fb5" title="Return the name of this atom. " alt="" coords="2093,391,2292,417"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ast_program.html#a6a4814327ce4603e7e332b21188495e1" title="Find and return the relation in the program given its name. " alt="" coords="2117,535,2268,577"/>
+<area shape="rect" id="node13" href="$namespacesouffle.html#aecc08c83ad9634fc515b7aa094702949" title="A generic function converting strings into strings (trivial case). " alt="" coords="2130,2513,2255,2540"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1_error_report.html#aafbdd26e7ec9ee493c536c48062659dd" title="Adds a warning with the given message and location. " alt="" coords="1581,2333,1727,2374"/>
+<area shape="rect" id="node26" href="$classsouffle_1_1_ast_clause.html#a5a29a4f9ba5d0e4aea869cf71a6efbbf" title="Return the atom that represents the head of the clause. " alt="" coords="2123,998,2262,1039"/>
+<area shape="rect" id="node27" href="$namespacesouffle.html#ae4b6e248ec714e64f38ce032caf5f477" title="Returns whether the given clause is a fact. " alt="" coords="1863,980,1973,1007"/>
+<area shape="rect" id="node28" href="$classsouffle_1_1_ast_clause.html#a816caca57b3c972f754e61b0e93fa941" title="Obtains a list of contained body&#45;atoms. " alt="" coords="1585,1519,1723,1561"/>
+<area shape="rect" id="node29" href="$classsouffle_1_1_ast_clause.html#a5739ffdbed184f22ec2e477395ab262b" title="Obtains a list of constraints. " alt="" coords="1585,1585,1723,1626"/>
+<area shape="rect" id="node30" href="$classsouffle_1_1_ast_clause.html#aa943423c45971e70c837da5b88c8fc04" title="Obtains the execution plan associated to this clause or null if there is none. " alt="" coords="1583,1650,1725,1691"/>
+<area shape="rect" id="node31" href="$classsouffle_1_1_ast_variable.html#a2b73a95c7b59624d956dee0ed4e13884" title="souffle::AstVariable\l::getName" alt="" coords="1580,1301,1728,1342"/>
+<area shape="rect" id="node32" href="$classsouffle_1_1_ast_clause.html#a764bc245d5e1c71ed05f9950da3e779e" title="Obtains a list of contained negations. " alt="" coords="1585,1715,1723,1757"/>
+<area shape="rect" id="node33" href="$classsouffle_1_1_ast_execution_plan.html#ab5ba00af6a719c060a2c15fa9cc726e5" title="Get orders. " alt="" coords="1561,1781,1747,1822"/>
+<area shape="rect" id="node34" href="$classsouffle_1_1_ast_clause.html#ad50775b707a2cd1e4e91e27a8fef236d" title="Determines whether this is a internally generated clause. " alt="" coords="1585,1846,1723,1887"/>
+<area shape="rect" id="node35" href="$classsouffle_1_1_recursive_clauses.html#a699aeb0883393d537a93b0e0a55568e7" title="souffle::RecursiveClauses\l::recursive" alt="" coords="1560,1911,1748,1953"/>
+<area shape="rect" id="node22" href="$classsouffle_1_1_ast_atom.html#a964013fd0d2570b5e5283de316c293fd" title="Return the number of arguments. " alt="" coords="1825,1183,2011,1209"/>
+<area shape="rect" id="node25" href="$classsouffle_1_1_ast_atom.html#a31b5b19cea99eae4e8c68c433d61c7ba" title="Return the i&#45;th argument of the atom. " alt="" coords="1807,1132,2029,1159"/>
+<area shape="rect" id="node24" href="$namespacesouffle.html#a2d324369b5fc672d6cde86cb6c20e304" title="souffle::isConstantArithExpr" alt="" coords="2091,1868,2294,1895"/>
+<area shape="rect" id="node37" href="$namespacesouffle.html#a1e94107c840a65c6cfe9071eb09d5c16" title="Find a cycle consisting entirely of inlined relations. " alt="" coords="2107,601,2278,628"/>
+</map>

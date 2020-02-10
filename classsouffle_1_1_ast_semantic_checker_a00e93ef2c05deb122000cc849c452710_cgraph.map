@@ -1,0 +1,51 @@
+<map id="souffle::AstSemanticChecker::transform" name="souffle::AstSemanticChecker::transform">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_semantic_checker.html#ac8d1cde01f9a451af8c45c46b15f13dd" title="souffle::AstSemanticChecker\l::checkProgram" alt="" coords="263,1379,472,1421"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_functor_declaration.html#a041cc43efd803a8b5d0d28dc3a2cad64" title="accepts the i&#45;th argument as a number value " alt="" coords="535,65,752,106"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_functor_declaration.html#a32abce5bc11dcccd25d8c405c0ba662a" title="get number of arguments " alt="" coords="819,65,1037,106"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_functor_declaration.html#ab0cb6d725ad567bf250e0d025b6fc089" title="accepts the i&#45;th argument as a symbolic value " alt="" coords="535,130,752,171"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_error_report.html#afbdb9eb5acd55ab81921c5cedefe2300" title="souffle::ErrorReport\l::addDiagnostic" alt="" coords="570,195,717,237"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_error_report.html#a699dc9231cef74ac54573e3c79de7143" title="Adds an error with the given message and location. " alt="" coords="855,378,1001,419"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_relation_identifier.html#a40b918b195df8c3eb223c068db7536fe" title="souffle::AstRelationIdentifier\l::append" alt="" coords="540,677,747,718"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ast_semantic_checker.html#a9465263c7eee247210360211ac3d2501" title="souffle::AstSemanticChecker\l::checkInlining" alt="" coords="539,509,748,550"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ast_relation.html#aa3d9c18d8e03ea29537f980553c28777" title="Return the name of the relation. " alt="" coords="854,521,1002,562"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ast_node.html#ae84bf084ceca6ac36dc4be406f42870f" title="Return source location of the AstNode. " alt="" coords="828,600,1028,627"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_ast_semantic_checker.html#a37ac19197603e886985f2732c57183e9" title="souffle::AstSemanticChecker\l::checkIODirectives" alt="" coords="539,313,748,354"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_ast_semantic_checker.html#a94b0173b16dfa3224da1a51416f76d2a" title="souffle::AstSemanticChecker\l::checkNamespaces" alt="" coords="539,378,748,419"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_ast_semantic_checker.html#a148eeccfa6a4772f3dc3118eb1488446" title="souffle::AstSemanticChecker\l::checkRules" alt="" coords="539,742,748,783"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_ast_semantic_checker.html#ae07f7145eea98df7c1b2e07a9a87ad78" title="souffle::AstSemanticChecker\l::checkTypes" alt="" coords="539,807,748,849"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_ast_semantic_checker.html#a482c93566cb1807d9c156b4920058d76" title="souffle::AstSemanticChecker\l::checkWitnessProblem" alt="" coords="539,443,748,485"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="562,873,725,900"/>
+<area shape="rect" id="node18" href="$structsouffle_1_1_type_set.html#a2110dea550ae2c1eaf6ef65e2854f925" title="Emptiness check. " alt="" coords="556,924,731,951"/>
+<area shape="rect" id="node19" href="$namespacesouffle.html#aa8169ca46ab37dd6edef4e577471eaf3" title="Determine if a type analysis&#39; result is equivalent to the given RamTypeAttribute. ..." alt="" coords="525,1025,762,1052"/>
+<area shape="rect" id="node20" href="$namespacesouffle.html#a1a7d8cb2f6a29f825e650a7c98487718" title="Determines whether the given type is a float type. " alt="" coords="855,1000,1001,1027"/>
+<area shape="rect" id="node21" href="$namespacesouffle.html#a4e502e6abb9a3e9a8e4c1168dbf23743" title="Determines whether the given type is a number type. " alt="" coords="845,1064,1011,1091"/>
+<area shape="rect" id="node22" href="$namespacesouffle.html#a34c8a82b8d9ed840b32e93186002d18c" title="Determines whether the given type is a record type. " alt="" coords="849,1121,1007,1148"/>
+<area shape="rect" id="node23" href="$classsouffle_1_1_ast_translation_unit.html#af396e44c83e5ad410c9ec3e2f6b91758" title="get analysis: analysis is generated on the fly if not present " alt="" coords="547,1178,740,1219"/>
+<area shape="rect" id="node24" href="$classsouffle_1_1_ast_term.html#a1fda9afed8208435006d0c7fdc6b2ae2" title="get argument at idx " alt="" coords="554,1244,733,1271"/>
+<area shape="rect" id="node25" href="$classsouffle_1_1_ast_intrinsic_functor.html#a134528072b67bac2c4ad58e27acb61ba" title="get type of the functor argument " alt="" coords="546,1295,741,1337"/>
+<area shape="rect" id="node26" href="$classsouffle_1_1_ast_term.html#a5bf9145afa6b327c21e3393123c292c3" title="get arguments " alt="" coords="815,1368,1041,1395"/>
+<area shape="rect" id="node27" href="$classsouffle_1_1_ast_term.html#acb9d1a38d12c0431439f9bca1ed99fbe" title="get number of arguments " alt="" coords="550,1615,737,1641"/>
+<area shape="rect" id="node28" href="$classsouffle_1_1_ast_translation_unit.html#aec4a1cc2e03286db878a5d2f0377f894" title="get error report " alt="" coords="547,1666,740,1707"/>
+<area shape="rect" id="node29" href="$classsouffle_1_1_ast_intrinsic_functor.html#abd8fa8ebe58c5ace29ea283f8ef6b483" title="get function " alt="" coords="546,1731,741,1773"/>
+<area shape="rect" id="node30" href="$namespacesouffle.html#a247fd46943465169ffe79f25628e5dad" title="Analyse the given clause and computes for each contained argument whether it is a grounded value or n..." alt="" coords="545,1463,742,1489"/>
+<area shape="rect" id="node31" href="$classsouffle_1_1_ast_binary_constraint.html#a72b9e10473e1748d720bbf68a3e7f471" title="Return LHS argument. " alt="" coords="826,1421,1030,1462"/>
+<area shape="rect" id="node32" href="$classsouffle_1_1_ast_binary_constraint.html#aec8d30b8684b3a2f5f715204999776a0" title="Return binary operator. " alt="" coords="826,1487,1030,1529"/>
+<area shape="rect" id="node33" href="$classsouffle_1_1_ast_binary_constraint.html#a61055c91c04bcbe4d03873044c6bf4b8" title="Return RHS argument. " alt="" coords="826,1555,1030,1597"/>
+<area shape="rect" id="node34" href="$classsouffle_1_1_s_c_c_graph.html#a75afdeee4ebce6370a5a18caf4b011a8" title="Get all internal relations of a given SCC. " alt="" coords="567,1797,720,1838"/>
+<area shape="rect" id="node35" href="$classsouffle_1_1_ast_variable.html#a2b73a95c7b59624d956dee0ed4e13884" title="souffle::AstVariable\l::getName" alt="" coords="569,1862,717,1903"/>
+<area shape="rect" id="node36" href="$classsouffle_1_1_ast_user_defined_functor.html#a585afa889111f211a7734f608a5d3098" title="get name " alt="" coords="532,1927,755,1969"/>
+<area shape="rect" id="node37" href="$classsouffle_1_1_ast_translation_unit.html#a85862a5fcfecdf63c7367926cdedde23" title="get the AST program " alt="" coords="547,1993,740,2034"/>
+<area shape="rect" id="node38" href="$namespacesouffle.html#a9726f0afbc98fa9807f0ba3bff93ba56" title="Obtains a list of all records referenced within the AST rooted by the given root node. " alt="" coords="570,2059,717,2085"/>
+<area shape="rect" id="node39" href="$classsouffle_1_1_ast_intrinsic_functor.html#a92144d9bb27f21d63e0db42bd21f951d" title="get the return type of the functor. " alt="" coords="546,2110,741,2151"/>
+<area shape="rect" id="node40" href="$classsouffle_1_1_s_c_c_graph.html#adefb37c129c38052524d06c824ac8150" title="Get the SCC of the given relation. " alt="" coords="570,2175,717,2217"/>
+<area shape="rect" id="node41" href="$classsouffle_1_1_ast_type_cast.html#ad36245294ff467de13443cb3702aaa46" title="Get type. " alt="" coords="566,2241,721,2282"/>
+<area shape="rect" id="node42" href="$classsouffle_1_1_type_analysis.html#a718c9369175312a51ed803c99ce43efb" title="Get the computed types for the given argument. " alt="" coords="564,2306,723,2347"/>
+<area shape="rect" id="node43" href="$namespacesouffle.html#acd078c141c96076832b98038f39e4d48" title="Obtains a list of all variables referenced within the AST rooted by the given root node..." alt="" coords="566,2372,721,2399"/>
+<area shape="rect" id="node44" href="$namespacesouffle.html#aae039656df27f6089ef34a0a4455dce5" title="Returns whether the given relation has any clauses which contain an aggregation over of a specific re..." alt="" coords="520,2423,767,2465"/>
+<area shape="rect" id="node45" href="$namespacesouffle.html#ab93b9d78c10c77c6d4ab227d5f9b389a" title="Returns whether the given relation has any clauses which contain a negation of a specific relation..." alt="" coords="530,2489,757,2530"/>
+<area shape="rect" id="node46" href="$namespacesouffle.html#ae4b6e248ec714e64f38ce032caf5f477" title="Returns whether the given clause is a fact. " alt="" coords="588,2555,699,2581"/>
+<area shape="rect" id="node47" href="$classsouffle_1_1_ast_functor_declaration.html#a7dce79585917858330af83f57f775c79" title="is return type a number value " alt="" coords="535,2606,752,2647"/>
+<area shape="rect" id="node48" href="$classsouffle_1_1_ast_binary_constraint.html#afd86d3526d407a164f40e675dc598a6e" title="Check whether constraint is a numeric constraint. " alt="" coords="541,2671,745,2713"/>
+<area shape="rect" id="node49" href="$namespacesouffle.html#ac97f71472d48b0e8715cb4aacd58862d" title="Check if type is numeric. " alt="" coords="558,2737,729,2764"/>
+<area shape="rect" id="node50" href="$classsouffle_1_1_s_c_c_graph.html#af21d0c54c4a7dd3a1a973a49f6b8fb9c" title="Return if the given SCC is recursive. " alt="" coords="570,2789,717,2830"/>
+</map>

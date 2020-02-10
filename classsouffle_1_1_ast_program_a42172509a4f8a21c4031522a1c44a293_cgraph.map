@@ -1,0 +1,6 @@
+<map id="souffle::AstProgram::getComponentInstantiations" name="souffle::AstProgram::getComponentInstantiations">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_program.html#a0a658e411394dfc93da0ab36e06d0101" title="Mutates this node. " alt="" coords="268,5,419,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_program.html#ac41d6e023a05c8c5b643189a5aa019cb" title="Create a clone (i.e. " alt="" coords="268,71,419,112"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="270,137,417,163"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_program.html#ad3a9e4e373082e6875ae0d1914183c26" title="a private constructor to restrict creation " alt="" coords="467,71,617,112"/>
+</map>

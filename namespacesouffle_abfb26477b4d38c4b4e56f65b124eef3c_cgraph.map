@@ -1,0 +1,11 @@
+<map id="souffle::addForwardDependencies" name="souffle::addForwardDependencies">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a6f53082a60ed5593022bde81dc619ac9" title="souffle::contains" alt="" coords="331,5,460,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_relation.html#ac5a2e5bef917c0dc9541d65de7eced6e" title="Obtains a list of the associated clauses. " alt="" coords="321,57,469,98"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_atom.html#a83a8f4fdc486c20a330570571ec34fb5" title="Return the name of this atom. " alt="" coords="296,123,495,149"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_program.html#a6a4814327ce4603e7e332b21188495e1" title="Find and return the relation in the program given its name. " alt="" coords="320,174,471,215"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#a307bae61c898715dccb57c9732335000" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="311,240,479,267"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="553,64,700,91"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#a030c754119d60ea72cff8af5b62710e6" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="543,233,711,274"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ast_node.html#a07dd728cde93a2b1d72d987cf54cbd8e" title="Obtain a list of all embedded AST child nodes. " alt="" coords="759,233,949,274"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ast_node.html#a118aba48ddc9006152aac63f08e0ff01" title="Output to a given output stream. " alt="" coords="997,240,1164,267"/>
+</map>

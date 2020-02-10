@@ -1,0 +1,8 @@
+<map id="souffle::IOType::run" name="souffle::IOType::run">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_translation_unit.html#a85862a5fcfecdf63c7367926cdedde23" title="get the AST program " alt="" coords="200,5,393,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_program.html#a6a4814327ce4603e7e332b21188495e1" title="Find and return the relation in the program given its name. " alt="" coords="221,71,372,112"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#a307bae61c898715dccb57c9732335000" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="213,137,381,163"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#a030c754119d60ea72cff8af5b62710e6" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="441,129,609,171"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_node.html#a07dd728cde93a2b1d72d987cf54cbd8e" title="Obtain a list of all embedded AST child nodes. " alt="" coords="657,129,848,171"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_node.html#a118aba48ddc9006152aac63f08e0ff01" title="Output to a given output stream. " alt="" coords="896,137,1063,163"/>
+</map>

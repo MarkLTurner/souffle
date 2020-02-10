@@ -1,0 +1,7 @@
+<map id="souffle::ResolveAliasesTransformer::removeTrivialEquality" name="souffle::ResolveAliasesTransformer::removeTrivialEquality">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_clause.html#aff84b29f3e516c5012fdce0d39a45818" title="souffle::AstClause\l::cloneHead" alt="" coords="304,64,443,105"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_clause.html#a1b5199df425ba5839383a75c5bb8a254" title="Obtains a copy of the internally maintained body literals. " alt="" coords="304,129,443,171"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_execution_order.html#a8623eecf386916fe12df94fe526875d8" title="Create a clone (i.e. " alt="" coords="493,5,687,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_node.html#ae84bf084ceca6ac36dc4be406f42870f" title="Return source location of the AstNode. " alt="" coords="737,42,937,69"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_node.html#a0b664297f0971c6ce32ff2e0e4f2603f" title="Set source location for the AstNode. " alt="" coords="491,122,689,149"/>
+</map>

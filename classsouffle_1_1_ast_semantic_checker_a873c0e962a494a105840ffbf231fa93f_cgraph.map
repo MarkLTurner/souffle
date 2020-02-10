@@ -1,0 +1,17 @@
+<map id="souffle::AstSemanticChecker::checkRecursiveUnionTypes" name="souffle::AstSemanticChecker::checkRecursiveUnionTypes">
+<area shape="rect" id="node2" href="$classsouffle_1_1_error_report.html#a699dc9231cef74ac54573e3c79de7143" title="Adds an error with the given message and location. " alt="" coords="289,5,436,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_type.html#abe549a4af3cbe085c6cdd05fbbde918d" title="get type name " alt="" coords="266,71,459,98"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_node.html#ae84bf084ceca6ac36dc4be406f42870f" title="Return source location of the AstNode. " alt="" coords="263,122,463,149"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_program.html#a700c77674de75405d00e50733bf5df1f" title="Gets a list of all types in this program. " alt="" coords="287,173,438,215"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_union_type.html#a82578e21b26f389e3280727344e48f0d" title="Obtains a reference to the list element types. " alt="" coords="281,239,444,280"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_graph.html#a8aa22759dcb069b37180e193b67a060c" title="Adds a new edge from the given vertex to the target vertex. " alt="" coords="283,305,442,331"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#abe4e3f19879707216a2758b03f4e2deb" title="Creates an object to be forwarded to some output stream for printing sequences of elements interspers..." alt="" coords="313,355,412,382"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_graph.html#a74931613fa789b34e1c9e70684f7328e" title="Returns the set of vertices the given vertex has edges to. " alt="" coords="267,406,459,433"/>
+<area shape="rect" id="node11" href="$namespacesouffle.html#aecc08c83ad9634fc515b7aa094702949" title="A generic function converting strings into strings (trivial case). " alt="" coords="300,457,425,483"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_graph.html#a5c23d2211b1834af2267607de97d1e04" title="Obtains a reference to the set of all vertices. " alt="" coords="276,507,449,534"/>
+<area shape="rect" id="node13" href="$namespacesouffle.html#a307bae61c898715dccb57c9732335000" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="279,558,447,585"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_diagnostic_message.html#ad3fd6ab90856d9cdd9bbba3140440362" title="souffle::DiagnosticMessage\l::DiagnosticMessage" alt="" coords="511,5,711,47"/>
+<area shape="rect" id="node14" href="$namespacesouffle.html#a030c754119d60ea72cff8af5b62710e6" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="527,551,695,592"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_ast_node.html#a07dd728cde93a2b1d72d987cf54cbd8e" title="Obtain a list of all embedded AST child nodes. " alt="" coords="759,551,949,592"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_ast_node.html#a118aba48ddc9006152aac63f08e0ff01" title="Output to a given output stream. " alt="" coords="997,558,1164,585"/>
+</map>

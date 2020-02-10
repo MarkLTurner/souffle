@@ -1,0 +1,19 @@
+<map id="souffle::areBijectivelyEquivalent" name="souffle::areBijectivelyEquivalent">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a63b103a79e1c9886c80cff614ba6ef93" title="Extract valid permutations from a given permutation matrix of valid moves. " alt="" coords="287,5,493,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_atom.html#a6728012e15c7e2be0b626c477c5018fd" title="Return the arity of the atom. " alt="" coords="295,56,485,83"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_clause.html#a1b5199df425ba5839383a75c5bb8a254" title="Obtains a copy of the internally maintained body literals. " alt="" coords="571,11,710,53"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_clause.html#a5a29a4f9ba5d0e4aea869cf71a6efbbf" title="Return the atom that represents the head of the clause. " alt="" coords="571,259,710,301"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#a90ecff533a6bf91c15209f6fbb56235f" title="Check if the atom at leftIdx in the left clause can potentially be matched up with the atom at rightI..." alt="" coords="314,361,466,388"/>
+<area shape="rect" id="node11" href="$namespacesouffle.html#aa3867b63ae91058fdbcbff1475240b16" title="Check whether a valid variable mapping exists for the given permutation. " alt="" coords="291,157,489,184"/>
+<area shape="rect" id="node14" href="$namespacesouffle.html#a307bae61c898715dccb57c9732335000" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="557,208,725,235"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_atom.html#a6dd961f511124f842623aaeef7bc59da" title="Returns this class as the referenced atom. " alt="" coords="543,391,738,417"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_atom.html#a83a8f4fdc486c20a330570571ec34fb5" title="Return the name of this atom. " alt="" coords="541,441,740,468"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ast_clause.html#ad1968cc7ea09937ebc307f1a622aadde" title="Return the i&#45;th Literal in body of the clause. " alt="" coords="571,493,710,534"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ast_literal.html#a1629831a09c124d52d2ffe4eae169f3b" title="Obtains the atom referenced by this literal &#45; if any. " alt="" coords="573,325,709,366"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_ast_clause.html#aef9cb574a067db73c83fd9c9f63d297f" title="Create a clone (i.e. " alt="" coords="571,77,710,118"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1_ast_variable.html#a2b73a95c7b59624d956dee0ed4e13884" title="souffle::AstVariable\l::getName" alt="" coords="567,142,715,183"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_ast_node.html#ae84bf084ceca6ac36dc4be406f42870f" title="Return source location of the AstNode. " alt="" coords="788,84,988,111"/>
+<area shape="rect" id="node15" href="$namespacesouffle.html#a030c754119d60ea72cff8af5b62710e6" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="804,201,972,242"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_ast_node.html#a07dd728cde93a2b1d72d987cf54cbd8e" title="Obtain a list of all embedded AST child nodes. " alt="" coords="1036,201,1227,242"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_ast_node.html#a118aba48ddc9006152aac63f08e0ff01" title="Output to a given output stream. " alt="" coords="1275,208,1441,235"/>
+</map>

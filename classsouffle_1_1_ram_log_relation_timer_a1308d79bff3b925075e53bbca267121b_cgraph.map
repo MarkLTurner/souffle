@@ -1,0 +1,6 @@
+<map id="souffle::RamLogRelationTimer::equal" name="souffle::RamLogRelationTimer::equal">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_relation_statement.html#ae20c6bb019e4947e36a6c35a0766cbc8" title="Equality check for two RAM nodes. " alt="" coords="272,5,497,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_abstract_log.html#a63d4afda2727156334123b5c2d30de0e" title="souffle::RamAbstractLog\l::equal" alt="" coords="294,71,475,112"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_relation_statement.html#a77d30eb0482a72bef77c865a91d14871" title="Get RAM relation. " alt="" coords="545,5,771,47"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_abstract_log.html#aaa7a5a256e48154e26340b4fac456990" title="Get logging statement. " alt="" coords="567,71,749,112"/>
+</map>

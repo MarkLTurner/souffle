@@ -1,0 +1,10 @@
+<map id="souffle::bindComposites" name="souffle::bindComposites">
+<area shape="rect" id="node2" href="$classsouffle_1_1_binding_store.html#a5274542dd9e7da5e28dfb25e566f3719" title="souffle::BindingStore\l::addBinding" alt="" coords="232,64,389,105"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ast_program.html#a60f36f5095adbc63611de05e52075ff7" title="Get all relations in the program. " alt="" coords="235,129,386,171"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_argument.html#a5f13087d708e0117ec3a913c7ffc3ad8" title="Create clone. " alt="" coords="442,5,601,47"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#a307bae61c898715dccb57c9732335000" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="437,71,605,98"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_variable.html#a2b73a95c7b59624d956dee0ed4e13884" title="souffle::AstVariable\l::getName" alt="" coords="447,123,595,164"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#a030c754119d60ea72cff8af5b62710e6" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="653,64,821,105"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_node.html#a07dd728cde93a2b1d72d987cf54cbd8e" title="Obtain a list of all embedded AST child nodes. " alt="" coords="869,64,1060,105"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_node.html#a118aba48ddc9006152aac63f08e0ff01" title="Output to a given output stream. " alt="" coords="1108,71,1275,98"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="souffle::InlineRelationsTransformer::transform" name="souffle::InlineRelationsTransformer::transform">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_program.html#a29a37490ca76595a9a8403d3acac8db8" title="append a new clause to this program – after parsing " alt="" coords="268,746,419,787"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#af48d6e1a779132e5412105fc9cfb85ed" title="Checks if a given clause contains an atom that should be inlined. " alt="" coords="1038,1514,1246,1541"/>
+<area shape="rect" id="node11" href="$namespacesouffle.html#ac4639aeb42a36253468c45df580e18bf" title="Returns a list of clauses that should replace the given clause after one step of inlining. " alt="" coords="252,812,435,838"/>
+<area shape="rect" id="node43" href="$classsouffle_1_1_ast_translation_unit.html#a85862a5fcfecdf63c7367926cdedde23" title="get the AST program " alt="" coords="247,1564,440,1606"/>
+<area shape="rect" id="node44" href="$classsouffle_1_1_ast_program.html#a60f36f5095adbc63611de05e52075ff7" title="Get all relations in the program. " alt="" coords="796,1848,947,1890"/>
+<area shape="rect" id="node45" href="$namespacesouffle.html#acbb53246ca22f17f324a309dc63f2e73" title="Removes all underscores in all atoms of inlined relations. " alt="" coords="225,1776,461,1802"/>
+<area shape="rect" id="node49" href="$namespacesouffle.html#abc8556c87eabd8a087d1e0fb9f8b89b6" title="Replace constants in the head of inlined clauses with (constrained) variables. " alt="" coords="519,1674,702,1715"/>
+<area shape="rect" id="node50" href="$classsouffle_1_1_ast_program.html#ac0733345760aab5b6939cd20b228c223" title="Removes a clause from this program. " alt="" coords="796,1612,947,1654"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_atom.html#a83a8f4fdc486c20a330570571ec34fb5" title="Return the name of this atom. " alt="" coords="1575,1514,1773,1541"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_program.html#a6a4814327ce4603e7e332b21188495e1" title="Find and return the relation in the program given its name. " alt="" coords="1599,840,1749,882"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_relation.html#a31bb7e85575b46ca3bc029b0ff9b769f" title="Check whether relation is an inlined relation. " alt="" coords="1331,1195,1479,1236"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#a307bae61c898715dccb57c9732335000" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="1321,1670,1489,1697"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#a030c754119d60ea72cff8af5b62710e6" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="1590,1667,1758,1708"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ast_node.html#a07dd728cde93a2b1d72d987cf54cbd8e" title="Obtain a list of all embedded AST child nodes. " alt="" coords="1843,1667,2033,1708"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ast_node.html#a118aba48ddc9006152aac63f08e0ff01" title="Output to a given output stream. " alt="" coords="2117,1674,2284,1701"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_ast_clause.html#aa9da90d931189d440bbe7b256e554f8d" title="Add a Literal to the body of the clause. " alt="" coords="541,914,680,955"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_ast_clause.html#aef9cb574a067db73c83fd9c9f63d297f" title="Create a clone (i.e. " alt="" coords="1869,632,2007,674"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_ast_node.html#ae84bf084ceca6ac36dc4be406f42870f" title="Return source location of the AstNode. " alt="" coords="2101,226,2301,253"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_ast_clause.html#aff84b29f3e516c5012fdce0d39a45818" title="souffle::AstClause\l::cloneHead" alt="" coords="1605,135,1743,176"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1_ast_clause.html#a1b5199df425ba5839383a75c5bb8a254" title="Obtains a copy of the internally maintained body literals. " alt="" coords="1869,859,2007,900"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1_ast_clause.html#a5a29a4f9ba5d0e4aea869cf71a6efbbf" title="Return the atom that represents the head of the clause. " alt="" coords="1869,1464,2007,1506"/>
+<area shape="rect" id="node20" href="$namespacesouffle.html#a8ae2dc0fd43bd8abb26027c3f2f448d1" title="Returns a vector of atoms that should replace the given atom after one step of inlining. " alt="" coords="523,786,698,813"/>
+<area shape="rect" id="node30" href="$namespacesouffle.html#a25b07f1c5efea50145140a31f755e0d1" title="Tries to perform a single step of inlining on the given literal. " alt="" coords="1052,866,1232,893"/>
+<area shape="rect" id="node33" href="$classsouffle_1_1_nullable_vector.html#ad94b793fbfe9e5d0175becd240539fbc" title="souffle::NullableVector\l::getVector" alt="" coords="1853,770,2023,811"/>
+<area shape="rect" id="node36" href="$classsouffle_1_1_nullable_vector.html#ab04c65c2ed18c2756c463c50de1912e8" title="souffle::NullableVector\l::isValid" alt="" coords="1853,1207,2023,1248"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_ast_execution_order.html#a8623eecf386916fe12df94fe526875d8" title="Create a clone (i.e. " alt="" coords="1841,110,2035,151"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_ast_node.html#a0b664297f0971c6ce32ff2e0e4f2603f" title="Set source location for the AstNode. " alt="" coords="1839,58,2037,85"/>
+<area shape="rect" id="node21" href="$classsouffle_1_1_ast_atom.html#a274d22e3c57da222d244c26f5937dd8a" title="Creates a clone of this AST sub&#45;structure. " alt="" coords="785,378,958,405"/>
+<area shape="rect" id="node23" href="$classsouffle_1_1_ast_atom.html#a9c726c597d7921245dd97dcc72b8aeed" title="Provides access to the list of arguments of this atom. " alt="" coords="2085,1168,2316,1194"/>
+<area shape="rect" id="node25" href="$namespacesouffle.html#aeddc699418d426e1ffcb965e37ccb3a2" title="Returns a vector of arguments that should replace the given argument after one step of inlining..." alt="" coords="770,761,973,788"/>
+<area shape="rect" id="node42" href="$classsouffle_1_1_ast_atom.html#a307a256c48b3911464bae97c8dc1307d" title="Replace the argument at the given index with the given argument. " alt="" coords="760,710,983,737"/>
+<area shape="rect" id="node22" href="$classsouffle_1_1_ast_atom.html#a83a883b45da6862eb20186cd61b7a859" title="souffle::AstAtom::AstAtom" alt="" coords="1045,378,1239,405"/>
+<area shape="rect" id="node24" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="2364,1138,2511,1165"/>
+<area shape="rect" id="node26" href="$classsouffle_1_1_ast_intrinsic_functor.html#a892ecac97ffaa54010b6c54c9813d488" title="Create clone. " alt="" coords="1308,699,1503,740"/>
+<area shape="rect" id="node27" href="$classsouffle_1_1_ast_user_defined_functor.html#a312fd84a65094ae3cccd143bcf055624" title="Create clone. " alt="" coords="1031,750,1253,791"/>
+<area shape="rect" id="node29" href="$namespacesouffle.html#a42c2f399b871f8fe7f0ba652812e2db5" title="souffle::combineAggregators" alt="" coords="1037,698,1247,725"/>
+<area shape="rect" id="node40" href="$classsouffle_1_1_ast_term.html#aef8fc61708c2c9918548bdc039f72370" title="set argument " alt="" coords="1053,581,1231,608"/>
+<area shape="rect" id="node41" href="$classsouffle_1_1_ast_aggregator.html#ac2f31fe3ca9c5ee4f99b32f375669c12" title="Set target expression. " alt="" coords="1059,632,1225,674"/>
+<area shape="rect" id="node28" href="$classsouffle_1_1_ast_variable.html#a2b73a95c7b59624d956dee0ed4e13884" title="souffle::AstVariable\l::getName" alt="" coords="1331,582,1479,623"/>
+<area shape="rect" id="node31" href="$namespacesouffle.html#a2e5ef82376f71d4d7ebfcfa64437d540" title="Forms the bodies that will replace the negation of a given inlined atom. " alt="" coords="1301,1042,1509,1069"/>
+<area shape="rect" id="node34" href="$namespacesouffle.html#a7dfca9e9addfda4f3e1ee38cbef0d7c0" title="Inlines the given atom based on a given clause. " alt="" coords="1579,957,1769,984"/>
+<area shape="rect" id="node38" href="$classsouffle_1_1_ast_atom.html#a6dd961f511124f842623aaeef7bc59da" title="Returns this class as the referenced atom. " alt="" coords="1308,890,1503,917"/>
+<area shape="rect" id="node39" href="$classsouffle_1_1_ast_relation.html#ac5a2e5bef917c0dc9541d65de7eced6e" title="Obtains a list of the associated clauses. " alt="" coords="2127,1102,2275,1143"/>
+<area shape="rect" id="node32" href="$namespacesouffle.html#a0e3e2145b6ac09dba3c7ba2e5535935f" title="Return the negated version of a disjunction of conjunctions. " alt="" coords="1557,1008,1791,1034"/>
+<area shape="rect" id="node35" href="$classsouffle_1_1_ast_clause.html#ab7a5b630d02cd69873aab066c2bd9c46" title="Apply the mapper to all child nodes. " alt="" coords="1869,950,2007,991"/>
+<area shape="rect" id="node37" href="$namespacesouffle.html#ab66c00257a9f4ce44653d82cee9c563d" title="Returns the nullable vector of substitutions needed to unify the two given atoms. ..." alt="" coords="1863,1037,2013,1064"/>
+<area shape="rect" id="node46" href="$classsouffle_1_1_ast_program.html#a0a658e411394dfc93da0ab36e06d0101" title="Mutates this node. " alt="" coords="535,1739,686,1780"/>
+<area shape="rect" id="node47" href="$namespacesouffle.html#a877abda5aeabc4122f3bce8d74247919" title="souffle::replaceUnderscores" alt="" coords="509,1805,712,1832"/>
+<area shape="rect" id="node48" href="$namespacesouffle.html#ae0c80a38e0b1c4617f373aba8d2c7198" title="souffle::hasPrefix" alt="" coords="804,1797,939,1824"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="souffle::AstProvenanceNegation" name="souffle::AstProvenanceNegation">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_literal.html" title="{souffle::AstLiteral\n||+ clone()\l+ getAtom()\l}" alt="" coords="76,816,212,908"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_node.html" title="Abstract class for syntactic elements in a Datalog program. " alt="" coords="73,528,215,767"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_src_location.html" title="A class describing a range in an input file. " alt="" coords="69,359,219,465"/>
+<area shape="rect" id="node5" href="$structsouffle_1_1_src_location_1_1_point.html" title="A class locating a single point in an input file. " alt="" coords="5,160,155,281"/>
+</map>

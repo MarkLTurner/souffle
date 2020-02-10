@@ -1,0 +1,51 @@
+<map id="souffle::AstTranslator::translateDeltaRelation" name="souffle::AstTranslator::translateDeltaRelation">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_translator.html#a7fc17898aec971a6853cb2c14ac61046" title="a utility to translate atoms to relations " alt="" coords="229,1208,388,1249"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#ab18cbb3adc2ab328de0db30a3fddf7e0" title="Returns the relation referenced by the given atom. " alt="" coords="1229,1714,1411,1741"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_atom.html#a83a8f4fdc486c20a330570571ec34fb5" title="Return the name of this atom. " alt="" coords="1497,1739,1696,1766"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_translator.html#aa391bcaa70af47f75790c3c6600fe8a5" title="create a reference to a RAM relation " alt="" coords="675,1113,864,1155"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_translator.html#a166b124d41a927432b4a3bced0cd1428" title="converts the given relation identifier into a relation name " alt="" coords="452,1055,611,1096"/>
+<area shape="rect" id="node32" href="$classsouffle_1_1_ast_translator.html#a995a0673ad714ae5cf15319d3f275c12" title="determine the auxiliary for relations " alt="" coords="948,1237,1107,1279"/>
+<area shape="rect" id="node50" href="$classsouffle_1_1_ast_atom.html#a6728012e15c7e2be0b626c477c5018fd" title="Return the arity of the atom. " alt="" coords="436,1681,627,1707"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_program.html#a6a4814327ce4603e7e332b21188495e1" title="Find and return the relation in the program given its name. " alt="" coords="1521,1648,1672,1689"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_translator.html#a09c766986104ae0e1330c8a25b6997a8" title="souffle::AstTranslator\l::getInputIODirectives" alt="" coords="687,377,851,419"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ast_translator.html#a8fa8b0aebb996832f8a61a1e6ce1b0af" title="souffle::AstTranslator\l::makeIODirective" alt="" coords="948,253,1107,295"/>
+<area shape="rect" id="node21" href="$classsouffle_1_1_ast_translator.html#a9b7fa1e7ef45f8420546e9b106410bf9" title="souffle::AstTranslator\l::getOutputIODirectives" alt="" coords="682,640,857,681"/>
+<area shape="rect" id="node27" href="$namespacesouffle.html#abe4e3f19879707216a2758b03f4e2deb" title="Creates an object to be forwarded to some output stream for printing sequences of elements interspers..." alt="" coords="1547,774,1646,801"/>
+<area shape="rect" id="node28" href="$namespacesouffle.html#aecc08c83ad9634fc515b7aa094702949" title="A generic function converting strings into strings (trivial case). " alt="" coords="965,851,1090,878"/>
+<area shape="rect" id="node29" href="$classsouffle_1_1_ast_translator.html#a764b834e5d344acfef8b5745bc3e4076" title="translate an AST constraint to a RAM condition " alt="" coords="690,1300,849,1341"/>
+<area shape="rect" id="node37" href="$classsouffle_1_1_ast_translator.html#ac5e4ccfc3fd2cbed0fe54c3386eafb2f" title="translate an AST argument to a RAM value " alt="" coords="948,1120,1107,1161"/>
+<area shape="rect" id="node49" href="$classsouffle_1_1_ast_translator.html#a75b0557b4a6c5eae17b29cfc60f7f0bb" title="translate a temporary new relation to a RAM relation for semi&#45;naive evaluation " alt="" coords="684,1179,855,1220"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="946,618,1109,645"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ast_relation.html#a40d5ff29b8a6de89e64aeac5e7b287d4" title="get loads " alt="" coords="953,319,1101,360"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1_i_o_directives.html#a74eab2acece044fbc85175a9536dadb3" title="souffle::IODirectives::set" alt="" coords="936,385,1119,411"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_i_o_directives.html#ab6d6b4abf84b2097889788123305d558" title="souffle::IODirectives\l::getFileName" alt="" coords="1243,384,1397,425"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_i_o_directives.html#af5f7e06d76ffbc1ad6a37dcb4d39238f" title="souffle::IODirectives\l::getIOType" alt="" coords="1243,5,1397,47"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_ast_relation.html#aa3d9c18d8e03ea29537f980553c28777" title="Return the name of the relation. " alt="" coords="1246,71,1394,112"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_i_o_directives.html#a1ebd7db4de51d59ec8d633b7e3bbf7eb" title="souffle::IODirectives\l::getRelationName" alt="" coords="1243,136,1397,177"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_i_o_directives.html#aca6a8bc2a8da8f1703d87ac116514799" title="souffle::IODirectives::has" alt="" coords="1227,202,1413,229"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_i_o_directives.html#ad991545107c9660ff13853748f82fd22" title="souffle::IODirectives\l::setFileName" alt="" coords="1243,253,1397,295"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1_i_o_directives.html#a87f01c4cd4597478d44deb81f4954bdd" title="souffle::IODirectives\l::setIOType" alt="" coords="1243,449,1397,491"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1_i_o_directives.html#abef5a3f9b0d3393b17f2493c6769df63" title="souffle::IODirectives\l::setRelationName" alt="" coords="1243,319,1397,360"/>
+<area shape="rect" id="node22" href="$classsouffle_1_1_auxiliary_arity.html#adea85bd3c6f6204a0230745bfbbcb80e" title="Returns the number of auxiliary parameters of an atom&#39;s relation. " alt="" coords="1239,1648,1401,1689"/>
+<area shape="rect" id="node23" href="$classsouffle_1_1_ast_relation.html#a54bd8f26d113f3141d49e926a030b52d" title="Return the arity of this relation. " alt="" coords="953,487,1101,528"/>
+<area shape="rect" id="node24" href="$classsouffle_1_1_ast_relation.html#a4c52523c3f2a56a9356c7b9610fa2eb7" title="Return the declared type at position idx. " alt="" coords="953,552,1101,593"/>
+<area shape="rect" id="node25" href="$classsouffle_1_1_ast_attribute.html#a70476bca0428b39cf9fe8b3aa6e2d4c0" title="get attribute name " alt="" coords="951,669,1103,711"/>
+<area shape="rect" id="node26" href="$classsouffle_1_1_ast_relation.html#aa4425521100c91dffe4bd19858f26f83" title="get stores " alt="" coords="953,735,1101,776"/>
+<area shape="rect" id="node30" href="$classsouffle_1_1_ast_negation.html#a0737c379dac1c350accecb1e2301698c" title="Returns the nested atom as the referenced atom. " alt="" coords="950,1368,1105,1409"/>
+<area shape="rect" id="node31" href="$classsouffle_1_1_ast_provenance_negation.html#aff026fdfc572fbb077f2bc5a0d2d5e6e" title="Returns the nested atom as the referenced atom. " alt="" coords="912,1433,1143,1475"/>
+<area shape="rect" id="node34" href="$classsouffle_1_1_ast_binary_constraint.html#a72b9e10473e1748d720bbf68a3e7f471" title="Return LHS argument. " alt="" coords="925,1499,1129,1540"/>
+<area shape="rect" id="node35" href="$classsouffle_1_1_ast_binary_constraint.html#aec8d30b8684b3a2f5f715204999776a0" title="Return binary operator. " alt="" coords="925,1564,1129,1605"/>
+<area shape="rect" id="node36" href="$classsouffle_1_1_ast_binary_constraint.html#a61055c91c04bcbe4d03873044c6bf4b8" title="Return RHS argument. " alt="" coords="925,1303,1129,1344"/>
+<area shape="rect" id="node33" href="$classsouffle_1_1_ast_relation_identifier.html#aa3b2643183274878064e1f2c37c886c2" title="souffle::AstRelationIdentifier\l::getName" alt="" coords="1217,1531,1423,1572"/>
+<area shape="rect" id="node38" href="$classsouffle_1_1_ast_translator_1_1_value_index.html#a520e5a36d76d84f2a7bfbdd2ff3179df" title="souffle::AstTranslator\l::ValueIndex::isDefined" alt="" coords="1235,1152,1405,1193"/>
+<area shape="rect" id="node39" href="$classsouffle_1_1_ast_translator.html#abe8faf50663cef582a9650c82bc1dc2c" title="create a RAM element access node " alt="" coords="1227,1217,1413,1259"/>
+<area shape="rect" id="node40" href="$classsouffle_1_1_ast_translator_1_1_value_index.html#a00992b40371165eaec17f5b4c84f18f6" title="souffle::AstTranslator\l::ValueIndex::getDefinitionPoint" alt="" coords="1207,1283,1433,1324"/>
+<area shape="rect" id="node41" href="$classsouffle_1_1_ast_constant.html#a88e7b366ab81310375c83800a441ade6" title="souffle::AstConstant\l::getRamRepresentation" alt="" coords="1231,1348,1409,1389"/>
+<area shape="rect" id="node42" href="$classsouffle_1_1_ast_term.html#a5bf9145afa6b327c21e3393123c292c3" title="get arguments " alt="" coords="1207,1414,1433,1441"/>
+<area shape="rect" id="node43" href="$classsouffle_1_1_ast_intrinsic_functor.html#abd8fa8ebe58c5ace29ea283f8ef6b483" title="get function " alt="" coords="1223,1465,1417,1507"/>
+<area shape="rect" id="node44" href="$classsouffle_1_1_ast_program.html#ae88b4bf75d9cc91350e459023cbd905b" title="Get functor declaration. " alt="" coords="1233,825,1407,867"/>
+<area shape="rect" id="node45" href="$classsouffle_1_1_ast_user_defined_functor.html#a585afa889111f211a7734f608a5d3098" title="get name " alt="" coords="1209,891,1431,932"/>
+<area shape="rect" id="node46" href="$classsouffle_1_1_ast_functor_declaration.html#a63c80472ebd3dff473d611da986e84cc" title="get type " alt="" coords="1211,956,1429,997"/>
+<area shape="rect" id="node47" href="$classsouffle_1_1_ast_translator_1_1_value_index.html#a8d873f5d4e768152abfa6415d5509c46" title="souffle::AstTranslator\l::ValueIndex::getAggregatorLocation" alt="" coords="1191,1021,1449,1063"/>
+<area shape="rect" id="node48" href="$classsouffle_1_1_ast_subroutine_argument.html#a82bf5b40705dd08731a83356e536920f" title="Return argument index. " alt="" coords="1205,1087,1435,1128"/>
+</map>

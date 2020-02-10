@@ -1,0 +1,14 @@
+<map id="souffle::ReorderLiteralsTransformer::getName" name="souffle::ReorderLiteralsTransformer::getName">
+<area shape="rect" id="node2" href="$classsouffle_1_1_resolve_aliases_transformer.html#abbd9ee9a4d600bc9e61746b43de54f30" title="souffle::ResolveAliasesTransformer\l::transform" alt="" coords="225,123,476,164"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_translation_unit.html#a85862a5fcfecdf63c7367926cdedde23" title="get the AST program " alt="" coords="524,5,717,47"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#a307bae61c898715dccb57c9732335000" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="537,71,705,98"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_relation.html#ac5a2e5bef917c0dc9541d65de7eced6e" title="Obtains a list of the associated clauses. " alt="" coords="547,123,695,164"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ast_program.html#ac0733345760aab5b6939cd20b228c223" title="Removes a clause from this program. " alt="" coords="545,188,696,229"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_ast_program.html#a29a37490ca76595a9a8403d3acac8db8" title="append a new clause to this program – after parsing " alt="" coords="545,253,696,295"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#a030c754119d60ea72cff8af5b62710e6" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="781,64,949,105"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_node.html#a07dd728cde93a2b1d72d987cf54cbd8e" title="Obtain a list of all embedded AST child nodes. " alt="" coords="1012,64,1203,105"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_node.html#a118aba48ddc9006152aac63f08e0ff01" title="Output to a given output stream. " alt="" coords="1251,71,1417,98"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="791,130,938,157"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ast_clause.html#a5a29a4f9ba5d0e4aea869cf71a6efbbf" title="Return the atom that represents the head of the clause. " alt="" coords="795,185,934,227"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_ast_atom.html#a83a8f4fdc486c20a330570571ec34fb5" title="Return the name of this atom. " alt="" coords="765,251,964,278"/>
+</map>

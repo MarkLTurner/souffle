@@ -1,0 +1,8 @@
+<map id="souffle::AstProgram::relationSize" name="souffle::AstProgram::relationSize">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_program.html#a29a37490ca76595a9a8403d3acac8db8" title="append a new clause to this program – after parsing " alt="" coords="204,5,355,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_program.html#aa49e46a4c01a178b28dde2079f1881b8" title="appends a new relation to this program – after parsing " alt="" coords="204,71,355,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_program.html#ac0733345760aab5b6939cd20b228c223" title="Removes a clause from this program. " alt="" coords="204,136,355,177"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_program.html#adcb36e001beb9b43bede7b00984e982f" title="Remove a relation from the program. " alt="" coords="204,201,355,243"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_clause.html#a5a29a4f9ba5d0e4aea869cf71a6efbbf" title="Return the atom that represents the head of the clause. " alt="" coords="433,107,571,148"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_atom.html#a83a8f4fdc486c20a330570571ec34fb5" title="Return the name of this atom. " alt="" coords="403,173,601,199"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classsouffle_1_1gzfstream_1_1internal_1_1gzfstream.html" title="souffle::gzfstream\l::internal::gzfstream" alt="" coords="95,67,249,108"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1gzfstream_1_1igzfstream.html" title="souffle::gzfstream\l::igzfstream" alt="" coords="315,5,455,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1gzfstream_1_1ogzfstream.html" title="souffle::gzfstream\l::ogzfstream" alt="" coords="315,71,455,112"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_null_stream.html" title="A stream ignoring everything written to it. " alt="" coords="311,137,458,163"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_split_stream.html" title="A stream copying its input to multiple output streams. " alt="" coords="309,187,460,214"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1gzfstream_1_1internal_1_1gzfstreambuf.html" title="souffle::gzfstream\l::internal::gzfstreambuf" alt="" coords="297,239,472,280"/>
+<area shape="rect" id="node11" href="$structsouffle_1_1_null_stream_1_1_null_buffer.html" title="souffle::NullStream\l::NullBuffer" alt="" coords="311,304,458,345"/>
+</map>

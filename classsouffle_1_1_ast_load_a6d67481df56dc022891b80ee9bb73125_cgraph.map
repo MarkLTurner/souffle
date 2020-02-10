@@ -1,0 +1,4 @@
+<map id="souffle::AstLoad::AstLoad" name="souffle::AstLoad::AstLoad">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_node.html#ae84bf084ceca6ac36dc4be406f42870f" title="Return source location of the AstNode. " alt="" coords="240,5,440,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_node.html#a0b664297f0971c6ce32ff2e0e4f2603f" title="Set source location for the AstNode. " alt="" coords="241,56,439,83"/>
+</map>

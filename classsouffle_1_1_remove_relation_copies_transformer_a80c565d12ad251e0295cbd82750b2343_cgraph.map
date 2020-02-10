@@ -1,0 +1,18 @@
+<map id="souffle::RemoveRelationCopiesTransformer::removeRelationCopies" name="souffle::RemoveRelationCopiesTransformer::removeRelationCopies">
+<area shape="rect" id="node2" href="$namespacesouffle.html#abb203058de4f353277b3c51d0346d9e5" title="A function testing whether two vector of pointers are referencing to equivalent targets. " alt="" coords="342,5,505,32"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_translation_unit.html#af396e44c83e5ad410c9ec3e2f6b91758" title="get analysis: analysis is generated on the fly if not present " alt="" coords="327,57,520,98"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_atom.html#a9c726c597d7921245dd97dcc72b8aeed" title="Provides access to the list of arguments of this atom. " alt="" coords="308,123,539,149"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_term.html#a5bf9145afa6b327c21e3393123c292c3" title="get arguments " alt="" coords="310,173,537,200"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_clause.html#a816caca57b3c972f754e61b0e93fa941" title="Obtains a list of contained body&#45;atoms. " alt="" coords="354,225,493,266"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ast_clause.html#ac48c0e4d469200abc80eb46e1dd5cf0b" title="Return the number of elements in the body of the Clause. " alt="" coords="601,287,740,329"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ast_clause.html#a5a29a4f9ba5d0e4aea869cf71a6efbbf" title="Return the atom that represents the head of the clause. " alt="" coords="601,359,740,401"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ast_atom.html#a83a8f4fdc486c20a330570571ec34fb5" title="Return the name of this atom. " alt="" coords="324,493,523,520"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_ast_translation_unit.html#a85862a5fcfecdf63c7367926cdedde23" title="get the AST program " alt="" coords="327,545,520,586"/>
+<area shape="rect" id="node13" href="$namespacesouffle.html#ae4b6e248ec714e64f38ce032caf5f477" title="Returns whether the given clause is a fact. " alt="" coords="368,392,479,419"/>
+<area shape="rect" id="node14" href="$namespacesouffle.html#a307bae61c898715dccb57c9732335000" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="587,439,755,465"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#ab0083e5ad86e88ff726ea4e3c7ef23c1" title="A function testing whether two vectors are equal (same vector of elements). " alt="" coords="615,5,726,32"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="597,173,744,200"/>
+<area shape="rect" id="node15" href="$namespacesouffle.html#a030c754119d60ea72cff8af5b62710e6" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="803,431,971,473"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_ast_node.html#a07dd728cde93a2b1d72d987cf54cbd8e" title="Obtain a list of all embedded AST child nodes. " alt="" coords="1019,431,1209,473"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_ast_node.html#a118aba48ddc9006152aac63f08e0ff01" title="Output to a given output stream. " alt="" coords="1257,439,1424,465"/>
+</map>

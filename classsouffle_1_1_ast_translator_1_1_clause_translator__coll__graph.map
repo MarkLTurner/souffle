@@ -1,0 +1,11 @@
+<map id="souffle::AstTranslator::ClauseTranslator" name="souffle::AstTranslator::ClauseTranslator">
+<area shape="rect" id="node2" href="$classsouffle_1_1_auxiliary_arity.html" title="Determine the auxiliary arity for relations. " alt="" coords="991,1365,1153,1487"/>
+<area shape="rect" id="node21" href="$classsouffle_1_1_ast_translator.html" title="Main class for AST Translator. " alt="" coords="1489,1608,1754,1876"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_analysis.html" title="Abstract class for a AST Analysis. " alt="" coords="871,983,1022,1090"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_program.html" title="Intermediate representation of a datalog program that consists of relations, clauses and types TODO (..." alt="" coords="1123,829,1355,1244"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_node.html" title="Abstract class for syntactic elements in a Datalog program. " alt="" coords="2433,528,2575,767"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_src_location.html" title="A class describing a range in an input file. " alt="" coords="1277,359,1427,465"/>
+<area shape="rect" id="node8" href="$structsouffle_1_1_src_location_1_1_point.html" title="A class locating a single point in an input file. " alt="" coords="1277,160,1427,281"/>
+<area shape="rect" id="node25" href="$classsouffle_1_1_type_environment.html" title="A type environment is a set of types. " alt="" coords="1331,1307,1517,1545"/>
+<area shape="rect" id="node27" href="$classsouffle_1_1_ast_translator_1_1_value_index.html" title="A class indexing the location of variables and record references within a loop nest resulting from th..." alt="" coords="1921,1608,2117,1876"/>
+</map>

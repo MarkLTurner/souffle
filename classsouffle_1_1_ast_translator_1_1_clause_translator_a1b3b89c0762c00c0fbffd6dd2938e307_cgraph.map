@@ -1,0 +1,6 @@
+<map id="souffle::AstTranslator::ClauseTranslator::getReorderedClause" name="souffle::AstTranslator::ClauseTranslator::getReorderedClause">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_clause.html#aef9cb574a067db73c83fd9c9f63d297f" title="Create a clone (i.e. " alt="" coords="311,5,449,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_clause.html#aa943423c45971e70c837da5b88c8fc04" title="Obtains the execution plan associated to this clause or null if there is none. " alt="" coords="309,71,451,112"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_execution_plan.html#a7c31652416a06d9aff1bc9b969a6ea4a" title="Obtains the order defined for the given version. " alt="" coords="287,136,473,177"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_node.html#ae84bf084ceca6ac36dc4be406f42870f" title="Return source location of the AstNode. " alt="" coords="521,13,721,39"/>
+</map>

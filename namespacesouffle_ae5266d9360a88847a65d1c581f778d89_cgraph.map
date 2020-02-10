@@ -1,0 +1,6 @@
+<map id="souffle::getHeadRelation" name="souffle::getHeadRelation">
+<area shape="rect" id="node2" href="$namespacesouffle.html#ab18cbb3adc2ab328de0db30a3fddf7e0" title="Returns the relation referenced by the given atom. " alt="" coords="236,35,419,61"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_clause.html#a5a29a4f9ba5d0e4aea869cf71a6efbbf" title="Return the atom that represents the head of the clause. " alt="" coords="258,86,397,127"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_atom.html#a83a8f4fdc486c20a330570571ec34fb5" title="Return the name of this atom. " alt="" coords="467,5,665,32"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_program.html#a6a4814327ce4603e7e332b21188495e1" title="Find and return the relation in the program given its name. " alt="" coords="491,57,641,98"/>
+</map>

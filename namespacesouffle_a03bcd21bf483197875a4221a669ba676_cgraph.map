@@ -1,0 +1,7 @@
+<map id="souffle::addAggregators" name="souffle::addAggregators">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_atom.html#a83a8f4fdc486c20a330570571ec34fb5" title="Return the name of this atom. " alt="" coords="231,5,429,32"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#a307bae61c898715dccb57c9732335000" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="246,56,414,83"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#a030c754119d60ea72cff8af5b62710e6" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="477,49,645,90"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_node.html#a07dd728cde93a2b1d72d987cf54cbd8e" title="Obtain a list of all embedded AST child nodes. " alt="" coords="693,49,884,90"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_node.html#a118aba48ddc9006152aac63f08e0ff01" title="Output to a given output stream. " alt="" coords="932,56,1099,83"/>
+</map>

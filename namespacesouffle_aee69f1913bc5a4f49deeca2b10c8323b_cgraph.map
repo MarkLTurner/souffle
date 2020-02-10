@@ -1,0 +1,7 @@
+<map id="souffle::updateQualifier" name="souffle::updateQualifier">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_relation.html#ac2e4b5b9b845d49b68b05e9d32a2ae69" title="Return qualifier associated with this relation. " alt="" coords="229,5,377,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_relation.html#ad2025f014882934287fbf5bf05a9ced7" title="Get representation for this relation. " alt="" coords="228,71,377,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_relation.html#a9527d30091d612f497c769ca3e87548f" title="Set qualifier associated with this relation. " alt="" coords="229,136,377,177"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_relation.html#aa3d9c18d8e03ea29537f980553c28777" title="Return the name of the relation. " alt="" coords="451,107,599,148"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_node.html#ae84bf084ceca6ac36dc4be406f42870f" title="Return source location of the AstNode. " alt="" coords="425,173,625,199"/>
+</map>

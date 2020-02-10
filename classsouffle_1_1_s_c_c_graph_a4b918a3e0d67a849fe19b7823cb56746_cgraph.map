@@ -1,0 +1,4 @@
+<map id="souffle::SCCGraph::getExternalOutputPredecessorRelations" name="souffle::SCCGraph::getExternalOutputPredecessorRelations">
+<area shape="rect" id="node2" href="$classsouffle_1_1_precedence_graph.html#aeae99542b6e88834762fbef7e239a2b5" title="souffle::PrecedenceGraph\l::graph" alt="" coords="273,5,461,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_i_o_type.html#af6eeaf8c4708b6f593addcc6f3604518" title="souffle::IOType::isOutput" alt="" coords="277,71,458,98"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="souffle::ReorderFilterBreak::reorderFilterBreak" name="souffle::ReorderFilterBreak::reorderFilterBreak">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_transformer.html#a09ebbf557165cbdebf5d95d5124f709b" title="apply the transformer to a translation unit &#160;translationUnit that will be transformed. " alt="" coords="277,332,460,373"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_ram_program.html#a6ea8dda68c573b440a260c94e4979fc6" title="Apply the mapper to all child nodes. " alt="" coords="289,627,448,668"/>
+<area shape="rect" id="node19" href="$namespacesouffle.html#a7fba43e03f480ca372449b103dfc9a2f" title="Creates a node mapper based on a corresponding lambda expression. " alt="" coords="248,693,489,719"/>
+<area shape="rect" id="node20" href="$namespacesouffle.html#a307bae61c898715dccb57c9732335000" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="285,743,453,770"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_debug_report.html#a4e6fe0a6d9854ce570d008772daa9aba" title="souffle::DebugReport\l::addSection" alt="" coords="559,5,718,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_translation_unit.html#a1869d20baf83599e12015d36c8bbb64a" title="get the set of alive analyses of the translation unit " alt="" coords="537,71,740,112"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_debug_reporter.html#ae6706724f0ac529fd011e0309d8899b0" title="Generate a debug report section for code (preserving formatting), with the given id and title..." alt="" coords="553,136,724,177"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ram_translation_unit.html#aa12b4d374b978ea3dea421c11fd55478" title="get debug report " alt="" coords="537,201,740,243"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ram_translation_unit.html#a34cc65ccb9f56403c617ed235f8100ab" title="get error report " alt="" coords="537,267,740,308"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_ram_transformer.html#ac8533b87fb70032e240b5fc8c40dea33" title="get name of the transformer " alt="" coords="547,332,730,373"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_error_report.html#a43341b617858ddfafb8f893e32d9bd6e" title="souffle::ErrorReport\l::getNumErrors" alt="" coords="565,397,712,439"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_ram_translation_unit.html#ab464bb1f13b9a284e54b9150582c1b97" title="get the RAM Program of the translation unit " alt="" coords="537,463,740,504"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_ram_translation_unit.html#adc388ca999ac2b1a8b584f517e60d930" title="throw away all alive analyses of the translation unit " alt="" coords="537,528,740,569"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_ram_transformer.html#a10a0d3a003094ad4a8de96b968d26e29" title="transform the translation unit / used by apply &#160;translationUnit that will be transformed. " alt="" coords="547,593,730,635"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_debug_report_section.html#af5d32516978098bf5bf4df8b0606e2c1" title="souffle::DebugReportSection\l::DebugReportSection" alt="" coords="788,136,995,177"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_debug_report_section.html#a46f6c9e88d0b6a2e95151248349e530c" title="Outputs the HTML code for the content of the section to the given stream, consisting of the title hea..." alt="" coords="1043,77,1249,119"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_debug_report_section.html#a96376c2f7035f1449fdb63e7ca5a8949" title="Outputs the HTML code for the title header to the given stream. " alt="" coords="1297,107,1504,148"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_debug_report_section.html#ac2b0115176631faca66af1d5c844bd01" title="Outputs the HTML code for the index to the given stream, consisting of a link to the section body fol..." alt="" coords="1043,195,1249,236"/>
+<area shape="rect" id="node18" href="$namespacesouffle.html#a7f93cdf21f1a24b593da6691dc892828" title="A generic factory for constraints of the form. " alt="" coords="590,659,687,686"/>
+<area shape="rect" id="node21" href="$namespacesouffle.html#a030c754119d60ea72cff8af5b62710e6" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="555,736,723,777"/>
+<area shape="rect" id="node22" href="$classsouffle_1_1_ast_node.html#a07dd728cde93a2b1d72d987cf54cbd8e" title="Obtain a list of all embedded AST child nodes. " alt="" coords="796,736,987,777"/>
+<area shape="rect" id="node23" href="$classsouffle_1_1_ast_node.html#a118aba48ddc9006152aac63f08e0ff01" title="Output to a given output stream. " alt="" coords="1063,743,1229,770"/>
+</map>

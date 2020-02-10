@@ -1,0 +1,15 @@
+<map id="souffle::RemoveEmptyRelationsTransformer::removeEmptyRelations" name="souffle::RemoveEmptyRelationsTransformer::removeEmptyRelations">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_translation_unit.html#af396e44c83e5ad410c9ec3e2f6b91758" title="get analysis: analysis is generated on the fly if not present " alt="" coords="313,5,507,47"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#ab18cbb3adc2ab328de0db30a3fddf7e0" title="Returns the relation referenced by the given atom. " alt="" coords="319,71,501,98"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_aggregator.html#a52adcf6071c53f92114ac3f45307ca18" title="Get body literals. " alt="" coords="327,123,493,164"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_translation_unit.html#a85862a5fcfecdf63c7367926cdedde23" title="get the AST program " alt="" coords="313,188,507,229"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ast_program.html#a60f36f5095adbc63611de05e52075ff7" title="Get all relations in the program. " alt="" coords="335,253,485,295"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ast_program.html#adcb36e001beb9b43bede7b00984e982f" title="Remove a relation from the program. " alt="" coords="335,319,485,360"/>
+<area shape="rect" id="node11" href="$namespacesouffle.html#a307bae61c898715dccb57c9732335000" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="326,385,494,411"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_atom.html#a83a8f4fdc486c20a330570571ec34fb5" title="Return the name of this atom. " alt="" coords="555,13,753,39"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_program.html#a6a4814327ce4603e7e332b21188495e1" title="Find and return the relation in the program given its name. " alt="" coords="579,64,729,105"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="581,130,727,157"/>
+<area shape="rect" id="node12" href="$namespacesouffle.html#a030c754119d60ea72cff8af5b62710e6" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="570,377,738,419"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_ast_node.html#a07dd728cde93a2b1d72d987cf54cbd8e" title="Obtain a list of all embedded AST child nodes. " alt="" coords="801,377,992,419"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_ast_node.html#a118aba48ddc9006152aac63f08e0ff01" title="Output to a given output stream. " alt="" coords="1040,385,1207,411"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="SynthesiserRelation.cpp" name="SynthesiserRelation.cpp">
+<area shape="rect" id="node2" href="$_synthesiser_relation_8h.html" title="SynthesiserRelation.h" alt="" coords="2436,80,2599,107"/>
+<area shape="rect" id="node22" href="$_relation_representation_8h.html" title="RelationRepresentation.h" alt="" coords="3530,677,3715,704"/>
+<area shape="rect" id="node25" href="$_util_8h.html" title="Util.h" alt="" coords="2087,603,2145,629"/>
+<area shape="rect" id="node49" href="$_global_8h.html" title="Global.h" alt="" coords="793,603,869,629"/>
+<area shape="rect" id="node3" href="$_ram_index_analysis_8h.html" title="RamIndexAnalysis.h" alt="" coords="1861,155,2016,181"/>
+<area shape="rect" id="node21" href="$_ram_relation_8h.html" title="RamRelation.h" alt="" coords="1197,603,1315,629"/>
+<area shape="rect" id="node4" href="$_ram_analysis_8h.html" title="RamAnalysis.h" alt="" coords="371,304,490,331"/>
+<area shape="rect" id="node6" href="$_ram_operation_8h.html" title="RamOperation.h" alt="" coords="1183,304,1311,331"/>
+<area shape="rect" id="node9" href="$_ram_types_8h.html" title="RamTypes.h" alt="" coords="397,677,499,704"/>
+<area shape="rect" id="node47" href="$_ram_statement_8h.html" title="RamStatement.h" alt="" coords="1873,229,2005,256"/>
+<area shape="rect" id="node7" href="$_ram_condition_8h.html" title="RamCondition.h" alt="" coords="1082,453,1209,480"/>
+<area shape="rect" id="node15" href="$_ram_expression_8h.html" title="RamExpression.h" alt="" coords="1437,528,1571,555"/>
+<area shape="rect" id="node16" href="$_ram_node_8h.html" title="RamNode.h" alt="" coords="757,677,856,704"/>
+<area shape="rect" id="node44" href="$_ram_utils_8h.html" title="RamUtils.h" alt="" coords="1487,379,1582,405"/>
+<area shape="rect" id="node8" href="$_binary_constraint_ops_8h.html" title="BinaryConstraintOps.h" alt="" coords="296,603,464,629"/>
+<area shape="rect" id="node48" href="$_i_o_directives_8h.html" title="IODirectives.h" alt="" coords="1643,603,1757,629"/>
+</map>

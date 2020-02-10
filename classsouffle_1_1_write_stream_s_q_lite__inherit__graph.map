@@ -1,0 +1,3 @@
+<map id="souffle::WriteStreamSQLite" name="souffle::WriteStreamSQLite">
+<area shape="rect" id="node2" href="$classsouffle_1_1_write_stream.html" title="{souffle::WriteStream\n|# arity\l# summary\l# symbolMask\l# symbolTable\l|+ writeAll()\l+ writeNext()\l+ writeSize()\l+ WriteStream()\l+ ~WriteStream()\l# writeNext()\l# writeNextTuple()\l# writeNextTupleElement()\l# writeNullary()\l# writeSize()\l}" alt="" coords="30,5,229,259"/>
+</map>

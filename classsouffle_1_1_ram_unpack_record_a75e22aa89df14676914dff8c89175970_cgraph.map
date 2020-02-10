@@ -1,0 +1,5 @@
+<map id="souffle::RamUnpackRecord::equal" name="souffle::RamUnpackRecord::equal">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_tuple_operation.html#ae5c19705bd40c0948a7369bac044b264" title="Equality check for two RAM nodes. " alt="" coords="251,5,453,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_nested_operation.html#afac69b5dd9b448f10512ccbe7352d8b1" title="Equality check for two RAM nodes. " alt="" coords="501,5,716,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_nested_operation.html#afdbbe7da4e005809c1ca1531b06f65f0" title="Get nested operation. " alt="" coords="764,5,979,47"/>
+</map>

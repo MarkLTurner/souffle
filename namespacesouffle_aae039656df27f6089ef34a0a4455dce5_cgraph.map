@@ -1,0 +1,11 @@
+<map id="souffle::hasClauseWithAggregatedRelation" name="souffle::hasClauseWithAggregatedRelation">
+<area shape="rect" id="node2" href="$namespacesouffle.html#ab18cbb3adc2ab328de0db30a3fddf7e0" title="Returns the relation referenced by the given atom. " alt="" coords="300,64,483,91"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_relation.html#ac5a2e5bef917c0dc9541d65de7eced6e" title="Obtains a list of the associated clauses. " alt="" coords="317,115,465,157"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#a307bae61c898715dccb57c9732335000" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="307,181,475,208"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_atom.html#a83a8f4fdc486c20a330570571ec34fb5" title="Return the name of this atom. " alt="" coords="531,5,729,32"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_program.html#a6a4814327ce4603e7e332b21188495e1" title="Find and return the relation in the program given its name. " alt="" coords="555,57,705,98"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="557,123,703,149"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#a030c754119d60ea72cff8af5b62710e6" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="546,174,714,215"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ast_node.html#a07dd728cde93a2b1d72d987cf54cbd8e" title="Obtain a list of all embedded AST child nodes. " alt="" coords="777,174,968,215"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ast_node.html#a118aba48ddc9006152aac63f08e0ff01" title="Output to a given output stream. " alt="" coords="1016,181,1183,208"/>
+</map>

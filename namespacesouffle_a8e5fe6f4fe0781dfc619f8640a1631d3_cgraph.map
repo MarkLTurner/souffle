@@ -1,0 +1,16 @@
+<map id="souffle::getLeastCommonSupertypes" name="souffle::getLeastCommonSupertypes">
+<area shape="rect" id="node2" href="$structsouffle_1_1_type_set.html#a2110dea550ae2c1eaf6ef65e2854f925" title="Emptiness check. " alt="" coords="360,5,535,32"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#a8aecaefb22443dc01bb4c208cb6aabdf" title="Computes the least common super types of the two given types. " alt="" coords="316,199,579,225"/>
+<area shape="rect" id="node6" href="$structsouffle_1_1_type_set.html#ad779397583248bcbf50b982e5314c2e2" title="Adds the given type to this set. " alt="" coords="869,115,1040,141"/>
+<area shape="rect" id="node15" href="$structsouffle_1_1_type_set.html#ae26622401685d8ac9080b2f5a83d7eaa" title="Universality check. " alt="" coords="367,249,528,276"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#a34f8eecb81c090fca9e58d3357b63ed9" title="A generic test checking whether any elements within a container satisfy a certain predicate..." alt="" coords="661,275,779,301"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_type_environment.html#af9544bc93704955f168a0803f583ae19" title="souffle::TypeEnvironment\l::getAllTypes" alt="" coords="627,107,813,149"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_type.html#a2bc9172d0ce6390a7960b24b16172c79" title="souffle::Type::getTypeEnvironment" alt="" coords="1096,384,1343,411"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#a8cc19c66d9d13ce64e65f14dcabb43b3" title="Determines whether type a is a subtype of type b. " alt="" coords="643,325,797,352"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_type_environment.html#ad76ba516b5c5acab7f895243a2cf6c00" title="souffle::TypeEnvironment\l::isType" alt="" coords="861,187,1048,229"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_type_environment.html#a5586a154835d2bfc076b9d5fcc11a50f" title="souffle::TypeEnvironment\l::getNumberType" alt="" coords="1126,271,1313,313"/>
+<area shape="rect" id="node11" href="$namespacesouffle.html#a4e502e6abb9a3e9a8e4c1168dbf23743" title="Determines whether the given type is a number type. " alt="" coords="871,304,1038,331"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_type_environment.html#a72fa419d33bf813f22efabec629a4627" title="souffle::TypeEnvironment\l::getSymbolType" alt="" coords="1126,457,1313,498"/>
+<area shape="rect" id="node14" href="$namespacesouffle.html#a11f6c352eec6bde7b5a0b143ffe64e3b" title="Determines whether the given type is a symbol type. " alt="" coords="873,405,1037,432"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_type.html#a00437c665d598367ff16229c823c728f" title="souffle::Type::print" alt="" coords="1391,464,1533,491"/>
+</map>

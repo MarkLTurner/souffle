@@ -1,0 +1,4 @@
+<map id="souffle::AstTypeCast::getChildNodes" name="souffle::AstTypeCast::getChildNodes">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_node.html#a07dd728cde93a2b1d72d987cf54cbd8e" title="Obtain a list of all embedded AST child nodes. " alt="" coords="208,5,399,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_node.html#a118aba48ddc9006152aac63f08e0ff01" title="Output to a given output stream. " alt="" coords="447,13,613,39"/>
+</map>

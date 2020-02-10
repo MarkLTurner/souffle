@@ -1,0 +1,5 @@
+<map id="souffle::AstRelation::print" name="souffle::AstRelation::print">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_relation.html#aa3d9c18d8e03ea29537f980553c28777" title="Return the name of the relation. " alt="" coords="201,5,349,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_relation.html#a31bb7e85575b46ca3bc029b0ff9b769f" title="Check whether relation is an inlined relation. " alt="" coords="201,71,349,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_relation.html#aff8804e073a847ae5e4c6d0c9a9d39c5" title="Check whether relation is an overridable relation. " alt="" coords="201,136,349,177"/>
+</map>

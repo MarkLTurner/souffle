@@ -1,0 +1,5 @@
+<map id="souffle::RamAbstractExistenceCheck::equal" name="souffle::RamAbstractExistenceCheck::equal">
+<area shape="rect" id="node2" href="$namespacesouffle.html#abb203058de4f353277b3c51d0346d9e5" title="A function testing whether two vector of pointers are referencing to equivalent targets. " alt="" coords="304,5,467,32"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_abstract_existence_check.html#aec9920ffd29371b7d99eb3429f725172" title="Get relation. " alt="" coords="275,57,496,98"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#ab0083e5ad86e88ff726ea4e3c7ef23c1" title="A function testing whether two vectors are equal (same vector of elements). " alt="" coords="544,5,655,32"/>
+</map>

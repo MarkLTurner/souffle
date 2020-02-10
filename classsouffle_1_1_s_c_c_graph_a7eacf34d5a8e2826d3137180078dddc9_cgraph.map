@@ -1,0 +1,5 @@
+<map id="souffle::SCCGraph::run" name="souffle::SCCGraph::run">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_translation_unit.html#af396e44c83e5ad410c9ec3e2f6b91758" title="get analysis: analysis is generated on the fly if not present " alt="" coords="221,5,415,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_translation_unit.html#a85862a5fcfecdf63c7367926cdedde23" title="get the AST program " alt="" coords="221,71,415,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_program.html#a60f36f5095adbc63611de05e52075ff7" title="Get all relations in the program. " alt="" coords="243,136,393,177"/>
+</map>

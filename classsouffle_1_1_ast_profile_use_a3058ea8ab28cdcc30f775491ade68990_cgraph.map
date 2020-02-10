@@ -1,0 +1,11 @@
+<map id="souffle::AstProfileUse::AstProfileUse" name="souffle::AstProfileUse::AstProfileUse">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_profile_use.html#a34226c83d7668621f374d6c3dc51d856" title="Return size of relation in the profile. " alt="" coords="229,5,391,47"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_profile_use.html#a00406fc673f09e1e744db83ba78e6a7d" title="Check whether the relation size exists in profile. " alt="" coords="229,71,391,112"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_profile_use.html#a30367746c2d0e22dd3e620e33f45d42a" title="Output some profile information. " alt="" coords="229,136,391,177"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_profile_use.html#a70c2ac82b48ce7eb4d566ca8ed17faa9" title="Run analysis. " alt="" coords="215,202,405,229"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_relation_identifier.html#aa3b2643183274878064e1f2c37c886c2" title="souffle::AstRelationIdentifier\l::getName" alt="" coords="453,39,660,80"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#abe4e3f19879707216a2758b03f4e2deb" title="Creates an object to be forwarded to some output stream for printing sequences of elements interspers..." alt="" coords="709,46,808,73"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="475,173,638,199"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1profile_1_1_reader.html#a57cc758c2f40d2ba5fe314678a3ba79e" title="Read the contents from file into the class. " alt="" coords="473,224,641,265"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#a1c65551944c7ecf6f44ec851b49bdbb0" title="souffle::now" alt="" coords="708,231,809,258"/>
+</map>

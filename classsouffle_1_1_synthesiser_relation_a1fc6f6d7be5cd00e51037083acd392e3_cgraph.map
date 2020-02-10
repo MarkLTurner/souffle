@@ -1,0 +1,6 @@
+<map id="souffle::SynthesiserRelation::getSynthesiserRelation" name="souffle::SynthesiserRelation::getSynthesiserRelation">
+<area shape="rect" id="node2" href="$classsouffle_1_1_synthesiser_relation.html#a233b38166660798003f936c02e91a6a4" title="Compute the final list of indices to be used. " alt="" coords="256,5,459,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_relation.html#aa2d201d636a8b01283b5996a56d7abb8" title="Get arity of relation. " alt="" coords="279,71,436,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_relation.html#a24b3dd6b9ef7e76253a2e7a489389075" title="Relation representation type. " alt="" coords="279,136,436,177"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_relation.html#a06af40ba0b48ecdd1ae1b4fae01e8f6e" title="Is nullary relation. " alt="" coords="279,201,436,243"/>
+</map>

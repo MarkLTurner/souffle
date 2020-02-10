@@ -1,0 +1,11 @@
+<map id="souffle::AstTranslator::getEvaluationArity" name="souffle::AstTranslator::getEvaluationArity">
+<area shape="rect" id="node2" href="$classsouffle_1_1_auxiliary_arity.html#adea85bd3c6f6204a0230745bfbbcb80e" title="Returns the number of auxiliary parameters of an atom&#39;s relation. " alt="" coords="234,71,397,112"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_program.html#a6a4814327ce4603e7e332b21188495e1" title="Find and return the relation in the program given its name. " alt="" coords="491,5,641,47"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_atom.html#a83a8f4fdc486c20a330570571ec34fb5" title="Return the name of this atom. " alt="" coords="467,137,665,163"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ast_relation_identifier.html#aa3b2643183274878064e1f2c37c886c2" title="souffle::AstRelationIdentifier\l::getName" alt="" coords="212,188,419,229"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_auxiliary_arity.html#a0c81f5179b7aa9ded54e7fde0faad040" title="Returns the number of auxiliary parameters of a relation. " alt="" coords="485,71,647,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="713,49,876,75"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_relation.html#ac5a2e5bef917c0dc9541d65de7eced6e" title="Obtains a list of the associated clauses. " alt="" coords="721,100,869,141"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="924,107,1071,134"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#abe4e3f19879707216a2758b03f4e2deb" title="Creates an object to be forwarded to some output stream for printing sequences of elements interspers..." alt="" coords="517,195,615,222"/>
+</map>

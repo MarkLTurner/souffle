@@ -1,0 +1,5 @@
+<map id="souffle::AstStore" name="souffle::AstStore">
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_print_size.html" title="Intermediate representation of a summary store operation. " alt="" coords="13,777,165,899"/>
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_i_o.html" title="Intermediate representation of IO operations. " alt="" coords="5,292,173,560"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_node.html" title="Abstract class for syntactic elements in a Datalog program. " alt="" coords="18,5,161,244"/>
+</map>

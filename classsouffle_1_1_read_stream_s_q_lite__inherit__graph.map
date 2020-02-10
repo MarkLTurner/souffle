@@ -1,0 +1,3 @@
+<map id="souffle::ReadStreamSQLite" name="souffle::ReadStreamSQLite">
+<area shape="rect" id="node2" href="$classsouffle_1_1_read_stream.html" title="{souffle::ReadStream\n|# arity\l# auxiliaryArity\l# symbolMask\l# symbolTable\l|+ readAll()\l+ ReadStream()\l+ ~ReadStream()\l# readNextTuple()\l}" alt="" coords="31,5,185,171"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="souffle::Synthesiser" name="souffle::Synthesiser">
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_translation_unit.html" title="Translating a RAM program. " alt="" coords="659,505,861,744"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_debug_report.html" title="Class representing a HTML report, consisting of a list of sections. " alt="" coords="311,255,470,377"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_error_report.html" title="{souffle::ErrorReport\n||+ addDiagnostic()\l+ addError()\l+ addWarning()\l+ ErrorReport()\l+ ErrorReport()\l+ getNumErrors()\l+ getNumIssues()\l+ getNumWarnings()\l+ print()\l}" alt="" coords="681,219,839,413"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_symbol_table.html" title="Global pool of re&#45;usable strings. " alt="" coords="864,189,1032,443"/>
+<area shape="rect" id="node14" href="$structsouffle_1_1_lock.html" title="A small utility class for implementing simple locks. " alt="" coords="993,5,1097,127"/>
+</map>

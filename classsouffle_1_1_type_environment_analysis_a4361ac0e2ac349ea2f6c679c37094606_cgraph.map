@@ -1,0 +1,12 @@
+<map id="souffle::TypeEnvironmentAnalysis::updateTypeEnvironment" name="souffle::TypeEnvironmentAnalysis::updateTypeEnvironment">
+<area shape="rect" id="node2" href="$classsouffle_1_1_union_type.html#a980e743dd021a43aa1ab0548a1ad6faf" title="souffle::UnionType::add" alt="" coords="302,5,477,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_type_environment.html#ad76ba516b5c5acab7f895243a2cf6c00" title="souffle::TypeEnvironment\l::isType" alt="" coords="531,49,717,90"/>
+<area shape="rect" id="node4" href="$structsouffle_1_1_record_type.html#a44e9c68ca7f7428f44c6f6ac9fd48181" title="The list of contained fields. " alt="" coords="299,107,479,133"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_type_environment.html#a75ca22f15fb89bc2bb398065477328f2" title="souffle::TypeEnvironment\l::createNumericType" alt="" coords="296,158,483,199"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_type_environment.html#ab13d03070c71d95125cf7002c7baa2eb" title="souffle::TypeEnvironment\l::createRecordType" alt="" coords="296,223,483,265"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_type_environment.html#ae7f4b70091d5ceb9a0a55342a55e4e8e" title="souffle::TypeEnvironment\l::createSymbolType" alt="" coords="296,289,483,330"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_type_environment.html#a3cae9e66c638f3721bfd840907208d8d" title="souffle::TypeEnvironment\l::createUnionType" alt="" coords="296,354,483,395"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_type_environment.html#a89d72d541244b7987dcac2708613cdb9" title="souffle::TypeEnvironment\l::getModifiableType" alt="" coords="296,419,483,461"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_type_environment.html#a2955ff39b330ae15de7c0b694b06ebd0" title="souffle::TypeEnvironment\l::getType" alt="" coords="296,485,483,526"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ast_program.html#a700c77674de75405d00e50733bf5df1f" title="Gets a list of all types in this program. " alt="" coords="314,550,465,591"/>
+</map>

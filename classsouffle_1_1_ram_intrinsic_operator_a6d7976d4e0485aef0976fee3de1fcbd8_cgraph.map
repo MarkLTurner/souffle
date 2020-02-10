@@ -1,0 +1,5 @@
+<map id="souffle::RamIntrinsicOperator::equal" name="souffle::RamIntrinsicOperator::equal">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_abstract_operator.html#a16c387779b4ca71369ce7a1b112cb707" title="Equality check for two RAM nodes. " alt="" coords="267,5,481,47"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#abb203058de4f353277b3c51d0346d9e5" title="A function testing whether two vector of pointers are referencing to equivalent targets. " alt="" coords="529,13,692,39"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#ab0083e5ad86e88ff726ea4e3c7ef23c1" title="A function testing whether two vectors are equal (same vector of elements). " alt="" coords="740,13,851,39"/>
+</map>

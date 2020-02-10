@@ -1,0 +1,4 @@
+<map id="souffle::pack" name="souffle::pack">
+<area shape="rect" id="node2" href="$classsouffle_1_1detail_1_1_record_map.html#a50da37d2493c58782ba088e82d4d3708" title="Packs the given tuple – and may create a new reference if necessary. " alt="" coords="159,5,349,47"/>
+<area shape="rect" id="node3" href="$structsouffle_1_1_lock.html#a0fe2edd3ac13a141851fa021716bae04" title="souffle::Lock::acquire" alt="" coords="397,13,557,39"/>
+</map>

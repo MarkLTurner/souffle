@@ -1,0 +1,12 @@
+<map id="souffle::DebugReporter::generateDebugReport" name="souffle::DebugReporter::generateDebugReport">
+<area shape="rect" id="node2" href="$classsouffle_1_1_debug_report.html#a4e6fe0a6d9854ce570d008772daa9aba" title="souffle::DebugReport\l::addSection" alt="" coords="249,5,408,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_debug_report_section.html#af5d32516978098bf5bf4df8b0606e2c1" title="souffle::DebugReportSection\l::DebugReportSection" alt="" coords="225,71,432,112"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_translation_unit.html#af396e44c83e5ad410c9ec3e2f6b91758" title="get analysis: analysis is generated on the fly if not present " alt="" coords="232,136,425,177"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_translation_unit.html#a2c05c0d93e34800167034b1aa423c4a0" title="get debug report " alt="" coords="232,201,425,243"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ast_translation_unit.html#a85862a5fcfecdf63c7367926cdedde23" title="get the AST program " alt="" coords="232,267,425,308"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ast_program.html#a41b95b3179fc737c70c7b957220146c4" title="Output to a given output stream. " alt="" coords="253,332,404,373"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_debug_report_section.html#ac2b0115176631faca66af1d5c844bd01" title="Outputs the HTML code for the index to the given stream, consisting of a link to the section body fol..." alt="" coords="480,12,687,53"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_debug_report_section.html#a96376c2f7035f1449fdb63e7ca5a8949" title="Outputs the HTML code for the title header to the given stream. " alt="" coords="735,100,941,141"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_debug_report_section.html#a46f6c9e88d0b6a2e95151248349e530c" title="Outputs the HTML code for the content of the section to the given stream, consisting of the title hea..." alt="" coords="480,129,687,171"/>
+<area shape="rect" id="node11" href="$namespacesouffle.html#abe4e3f19879707216a2758b03f4e2deb" title="Creates an object to be forwarded to some output stream for printing sequences of elements interspers..." alt="" coords="534,339,633,366"/>
+</map>

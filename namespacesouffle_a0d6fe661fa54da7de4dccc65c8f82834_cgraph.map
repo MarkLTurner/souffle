@@ -1,0 +1,18 @@
+<map id="souffle::getTypeQualifier" name="souffle::getTypeQualifier">
+<area shape="rect" id="node2" href="$classsouffle_1_1_union_type.html#a0175bce933a70c1d3691114860ac17fc" title="souffle::UnionType\l::getElementTypes" alt="" coords="253,77,396,119"/>
+<area shape="rect" id="node4" href="$structsouffle_1_1_record_type.html#a338320267386a93ab482f1e25d50ef7a" title="souffle::RecordType\l::getFields" alt="" coords="251,5,399,47"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_type.html#ac532f38ba7bd184339d5128d247567d2" title="souffle::Type::getName" alt="" coords="239,207,411,234"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#ad59df0310eb465219910409febec8a15" title="Convert a type analysis&#39; type/set of type to the the RamTypeAttribute. " alt="" coords="233,157,416,183"/>
+<area shape="rect" id="node17" href="$namespacesouffle.html#aecc08c83ad9634fc515b7aa094702949" title="A generic function converting strings into strings (trivial case). " alt="" coords="262,258,387,285"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_type.html#a00437c665d598367ff16229c823c728f" title="souffle::Type::print" alt="" coords="983,55,1125,82"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#a1a7d8cb2f6a29f825e650a7c98487718" title="Determines whether the given type is a float type. " alt="" coords="479,207,625,234"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#a4e502e6abb9a3e9a8e4c1168dbf23743" title="Determines whether the given type is a number type. " alt="" coords="469,258,635,285"/>
+<area shape="rect" id="node12" href="$namespacesouffle.html#a34c8a82b8d9ed840b32e93186002d18c" title="Determines whether the given type is a record type. " alt="" coords="473,106,631,133"/>
+<area shape="rect" id="node13" href="$namespacesouffle.html#a11f6c352eec6bde7b5a0b143ffe64e3b" title="Determines whether the given type is a symbol type. " alt="" coords="470,309,634,335"/>
+<area shape="rect" id="node15" href="$namespacesouffle.html#a5c4839a38da22a968ab01e81a67d793c" title="Determines whether the given type is a number type. " alt="" coords="464,157,640,183"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_type.html#a2bc9172d0ce6390a7960b24b16172c79" title="souffle::Type::getTypeEnvironment" alt="" coords="688,238,935,265"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_type_environment.html#a5569e54d58b6ca69f1fffbdd77143545" title="souffle::TypeEnvironment\l::getFloatType" alt="" coords="718,172,905,213"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_type_environment.html#a5586a154835d2bfc076b9d5fcc11a50f" title="souffle::TypeEnvironment\l::getNumberType" alt="" coords="718,289,905,331"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_type_environment.html#a72fa419d33bf813f22efabec629a4627" title="souffle::TypeEnvironment\l::getSymbolType" alt="" coords="718,355,905,396"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_type_environment.html#a0b191b7782e170a23b54f7ec347a32ab" title="souffle::TypeEnvironment\l::getUnsignedType" alt="" coords="718,107,905,148"/>
+</map>

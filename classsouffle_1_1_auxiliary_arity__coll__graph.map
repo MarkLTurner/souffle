@@ -1,0 +1,7 @@
+<map id="souffle::AuxiliaryArity" name="souffle::AuxiliaryArity">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_analysis.html" title="Abstract class for a AST Analysis. " alt="" coords="957,983,1107,1090"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_program.html" title="Intermediate representation of a datalog program that consists of relations, clauses and types TODO (..." alt="" coords="1207,829,1439,1244"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_node.html" title="Abstract class for syntactic elements in a Datalog program. " alt="" coords="73,528,215,767"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_src_location.html" title="A class describing a range in an input file. " alt="" coords="69,359,219,465"/>
+<area shape="rect" id="node7" href="$structsouffle_1_1_src_location_1_1_point.html" title="A class locating a single point in an input file. " alt="" coords="5,160,155,281"/>
+</map>

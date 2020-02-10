@@ -1,0 +1,7 @@
+<map id="souffle::AstUnionType" name="souffle::AstUnionType">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_type.html" title="{souffle::AstType\n||+ AstType()\l+ clone()\l+ getName()\l+ setName()\l}" alt="" coords="173,829,299,951"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_node.html" title="Abstract class for syntactic elements in a Datalog program. " alt="" coords="73,528,215,767"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_src_location.html" title="A class describing a range in an input file. " alt="" coords="69,359,219,465"/>
+<area shape="rect" id="node5" href="$structsouffle_1_1_src_location_1_1_point.html" title="A class locating a single point in an input file. " alt="" coords="5,160,155,281"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_type_identifier.html" title="The type of identifier utilized for referencing types. " alt="" coords="239,535,422,759"/>
+</map>

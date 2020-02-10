@@ -1,0 +1,4 @@
+<map id="souffle::AstNegation" name="souffle::AstNegation">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_literal.html" title="{souffle::AstLiteral\n||+ clone()\l+ getAtom()\l}" alt="" coords="15,292,151,384"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_node.html" title="Abstract class for syntactic elements in a Datalog program. " alt="" coords="11,5,154,244"/>
+</map>

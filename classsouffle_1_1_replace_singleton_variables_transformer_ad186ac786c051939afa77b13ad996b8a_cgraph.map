@@ -1,0 +1,9 @@
+<map id="souffle::ReplaceSingletonVariablesTransformer::transform" name="souffle::ReplaceSingletonVariablesTransformer::transform">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_variable.html#a2b73a95c7b59624d956dee0ed4e13884" title="souffle::AstVariable\l::getName" alt="" coords="308,5,456,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_translation_unit.html#a85862a5fcfecdf63c7367926cdedde23" title="get the AST program " alt="" coords="285,71,479,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_program.html#a60f36f5095adbc63611de05e52075ff7" title="Get all relations in the program. " alt="" coords="307,136,457,177"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#a307bae61c898715dccb57c9732335000" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="298,202,466,229"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#a030c754119d60ea72cff8af5b62710e6" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="527,195,695,236"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_node.html#a07dd728cde93a2b1d72d987cf54cbd8e" title="Obtain a list of all embedded AST child nodes. " alt="" coords="743,195,933,236"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_node.html#a118aba48ddc9006152aac63f08e0ff01" title="Output to a given output stream. " alt="" coords="981,202,1148,229"/>
+</map>

@@ -1,0 +1,34 @@
+<map id="souffle::AstTranslator::makeSubproofSubroutine" name="souffle::AstTranslator::makeSubproofSubroutine">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_clause.html#aef9cb574a067db73c83fd9c9f63d297f" title="Create a clone (i.e. " alt="" coords="260,5,399,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="745,127,907,154"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_auxiliary_arity.html#adea85bd3c6f6204a0230745bfbbcb80e" title="Returns the number of auxiliary parameters of an atom&#39;s relation. " alt="" coords="248,211,411,252"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ast_translator.html#aef1126dfeb3607dca42985892618e178" title="assigns names to unnamed variables such that enclosing constructs may be cloned without losing the va..." alt="" coords="465,61,656,103"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_ast_translator_1_1_clause_translator.html#a748f3b455884c987d66185da18e314b1" title="generate RAM code for a clause " alt="" coords="459,525,663,581"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_node.html#ae84bf084ceca6ac36dc4be406f42870f" title="Return source location of the AstNode. " alt="" coords="461,10,661,37"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_auxiliary_arity.html#a0c81f5179b7aa9ded54e7fde0faad040" title="Returns the number of auxiliary parameters of a relation. " alt="" coords="479,179,642,220"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ast_program.html#a6a4814327ce4603e7e332b21188495e1" title="Find and return the relation in the program given its name. " alt="" coords="485,244,636,285"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ast_atom.html#a83a8f4fdc486c20a330570571ec34fb5" title="Return the name of this atom. " alt="" coords="727,245,925,271"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_relation.html#ac5a2e5bef917c0dc9541d65de7eced6e" title="Obtains a list of the associated clauses. " alt="" coords="752,179,900,220"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="989,245,1136,271"/>
+<area shape="rect" id="node12" href="$namespacesouffle.html#aecc08c83ad9634fc515b7aa094702949" title="A generic function converting strings into strings (trivial case). " alt="" coords="763,77,889,103"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_ast_clause.html#a816caca57b3c972f754e61b0e93fa941" title="Obtains a list of contained body&#45;atoms. " alt="" coords="757,11,895,52"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_ast_clause.html#a5a29a4f9ba5d0e4aea869cf71a6efbbf" title="Return the atom that represents the head of the clause. " alt="" coords="1199,572,1337,613"/>
+<area shape="rect" id="node16" href="$namespacesouffle.html#ae4b6e248ec714e64f38ce032caf5f477" title="Returns whether the given clause is a fact. " alt="" coords="1007,514,1118,541"/>
+<area shape="rect" id="node22" href="$classsouffle_1_1_ast_atom.html#a9c726c597d7921245dd97dcc72b8aeed" title="Provides access to the list of arguments of this atom. " alt="" coords="711,362,941,389"/>
+<area shape="rect" id="node23" href="$namespacesouffle.html#ad9a7da374b6da781f82cdc09d5fe0d38" title="Returns whether the given clause is a rule. " alt="" coords="769,565,883,591"/>
+<area shape="rect" id="node24" href="$classsouffle_1_1_ast_translator.html#abe8faf50663cef582a9650c82bc1dc2c" title="create a RAM element access node " alt="" coords="733,667,919,708"/>
+<area shape="rect" id="node25" href="$classsouffle_1_1_ast_clause.html#a1b5199df425ba5839383a75c5bb8a254" title="Obtains a copy of the internally maintained body literals. " alt="" coords="757,732,895,773"/>
+<area shape="rect" id="node26" href="$classsouffle_1_1_ast_aggregator.html#aea4851f8c253caa94a996a0e30742ca4" title="Get aggregate operator. " alt="" coords="743,797,909,839"/>
+<area shape="rect" id="node27" href="$classsouffle_1_1_ast_aggregator.html#a52adcf6071c53f92114ac3f45307ca18" title="Get body literals. " alt="" coords="743,296,909,337"/>
+<area shape="rect" id="node28" href="$classsouffle_1_1_ast_atom.html#a964013fd0d2570b5e5283de316c293fd" title="Return the number of arguments. " alt="" coords="733,863,919,890"/>
+<area shape="rect" id="node29" href="$classsouffle_1_1_ast_atom.html#a31b5b19cea99eae4e8c68c433d61c7ba" title="Return the i&#45;th argument of the atom. " alt="" coords="715,914,937,941"/>
+<area shape="rect" id="node30" href="$namespacesouffle.html#aaaed06bbcb6b8efcfd2474b1c5d81aa3" title="Determines if an expression represents an undefined value. " alt="" coords="731,965,921,991"/>
+<area shape="rect" id="node31" href="$classsouffle_1_1_ast_aggregator.html#ab7e1ea1e90047289a281ebe75a19365e" title="Get target expression. " alt="" coords="743,1016,909,1057"/>
+<area shape="rect" id="node32" href="$classsouffle_1_1_ast_atom.html#a6728012e15c7e2be0b626c477c5018fd" title="Return the arity of the atom. " alt="" coords="731,413,921,439"/>
+<area shape="rect" id="node33" href="$namespacesouffle.html#a06f428910159c119c1dcdcab76ab7dfa" title="Stringify a string using escapes for newline, tab, double&#45;quotes and semicolons. " alt="" coords="762,463,890,490"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_ast_clause.html#ac48c0e4d469200abc80eb46e1dd5cf0b" title="Return the number of elements in the body of the Clause. " alt="" coords="1199,507,1337,548"/>
+<area shape="rect" id="node18" href="$namespacesouffle.html#a307bae61c898715dccb57c9732335000" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="1184,455,1352,482"/>
+<area shape="rect" id="node19" href="$namespacesouffle.html#a030c754119d60ea72cff8af5b62710e6" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="1400,448,1568,489"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1_ast_node.html#a07dd728cde93a2b1d72d987cf54cbd8e" title="Obtain a list of all embedded AST child nodes. " alt="" coords="1616,448,1807,489"/>
+<area shape="rect" id="node21" href="$classsouffle_1_1_ast_node.html#a118aba48ddc9006152aac63f08e0ff01" title="Output to a given output stream. " alt="" coords="1855,455,2021,482"/>
+</map>

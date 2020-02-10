@@ -1,0 +1,16 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classsouffle_1_1_ast_analysis.html" title="Abstract class for a AST Analysis. " alt="" coords="5,309,156,336"/>
+<area shape="rect" id="node2" href="$classsouffle_1_1_adornment.html" title="souffle::Adornment" alt="" coords="232,5,379,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_profile_use.html" title="AstAnalysis that loads profile data and has a profile query interface. " alt="" coords="225,56,386,83"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_auxiliary_arity.html" title="Determine the auxiliary arity for relations. " alt="" coords="224,107,387,133"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_component_lookup.html" title="souffle::ComponentLookup" alt="" coords="207,157,403,184"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_i_o_type.html" title="souffle::IOType" alt="" coords="246,208,365,235"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_precedence_graph.html" title="Analysis pass computing the precedence graph of the relations of the datalog progam. " alt="" coords="211,259,399,285"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_recursive_clauses.html" title="Analysis pass identifying clauses which are recursive. " alt="" coords="211,309,399,336"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_redundant_relations.html" title="Analysis pass identifying relations which do not contribute to the computation of the output relation..." alt="" coords="204,360,407,387"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_relation_schedule.html" title="Analysis pass computing a schedule for computing relations. " alt="" coords="212,411,399,437"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_s_c_c_graph.html" title="Analysis pass computing the strongly connected component (SCC) graph for the datalog program..." alt="" coords="236,461,375,488"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_topologically_sorted_s_c_c_graph.html" title="Analysis pass computing a topologically sorted strongly connected component (SCC) graph..." alt="" coords="205,513,406,554"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_type_analysis.html" title="souffle::TypeAnalysis" alt="" coords="226,579,385,605"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_type_environment_analysis.html" title="souffle::TypeEnvironment\lAnalysis" alt="" coords="212,630,399,671"/>
+</map>

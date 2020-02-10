@@ -1,0 +1,4 @@
+<map id="souffle::getAtomRelation" name="souffle::getAtomRelation">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_atom.html#a83a8f4fdc486c20a330570571ec34fb5" title="Return the name of this atom. " alt="" coords="236,5,435,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_program.html#a6a4814327ce4603e7e332b21188495e1" title="Find and return the relation in the program given its name. " alt="" coords="260,57,411,98"/>
+</map>

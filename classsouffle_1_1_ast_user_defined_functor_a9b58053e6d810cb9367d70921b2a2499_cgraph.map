@@ -1,0 +1,5 @@
+<map id="souffle::AstUserDefinedFunctor::equal" name="souffle::AstUserDefinedFunctor::equal">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_term.html#a6979edb3e6426826d67376e6dc1499ef" title="Abstract equality check for two AST nodes. " alt="" coords="276,13,447,39"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#abb203058de4f353277b3c51d0346d9e5" title="A function testing whether two vector of pointers are referencing to equivalent targets. " alt="" coords="495,13,657,39"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#ab0083e5ad86e88ff726ea4e3c7ef23c1" title="A function testing whether two vectors are equal (same vector of elements). " alt="" coords="705,13,816,39"/>
+</map>

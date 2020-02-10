@@ -1,0 +1,6 @@
+<map id="souffle::AuxiliaryArity::getArity" name="souffle::AuxiliaryArity::getArity">
+<area shape="rect" id="node2" href="$classsouffle_1_1_auxiliary_arity.html#a0c81f5179b7aa9ded54e7fde0faad040" title="Returns the number of auxiliary parameters of a relation. " alt="" coords="216,27,379,69"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="427,5,589,32"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_relation.html#ac5a2e5bef917c0dc9541d65de7eced6e" title="Obtains a list of the associated clauses. " alt="" coords="434,57,582,98"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="637,64,784,91"/>
+</map>

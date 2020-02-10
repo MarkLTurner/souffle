@@ -1,0 +1,23 @@
+<map id="souffle::ReorderLiteralsTransformer::transform" name="souffle::ReorderLiteralsTransformer::transform">
+<area shape="rect" id="node2" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="255,5,418,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_translation_unit.html#af396e44c83e5ad410c9ec3e2f6b91758" title="get analysis: analysis is generated on the fly if not present " alt="" coords="240,57,433,98"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_atom.html#a6728012e15c7e2be0b626c477c5018fd" title="Return the arity of the atom. " alt="" coords="508,72,699,99"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_atom.html#a83a8f4fdc486c20a330570571ec34fb5" title="Return the name of this atom. " alt="" coords="237,376,436,403"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_translation_unit.html#a85862a5fcfecdf63c7367926cdedde23" title="get the AST program " alt="" coords="240,427,433,469"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_program.html#a60f36f5095adbc63611de05e52075ff7" title="Get all relations in the program. " alt="" coords="261,493,412,534"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#a34387241fab1e3ecc054fed02cee2d0d" title="Returns a SIPS function based on the SIPS option provided. " alt="" coords="249,173,425,200"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#a1c608d44d9d95373b73915fd555eeb60" title="souffle::isProposition" alt="" coords="524,275,683,301"/>
+<area shape="rect" id="node13" href="$namespacesouffle.html#a84b8ff6e096476fd6097c05b4eb12386" title="Counts the number of bound arguments in a given atom. " alt="" coords="496,224,711,251"/>
+<area shape="rect" id="node18" href="$namespacesouffle.html#a195852ecbdde02bcf1019cd6915c9c74" title="souffle::reorderClauseWithSips" alt="" coords="225,325,448,352"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ast_variable.html#a2b73a95c7b59624d956dee0ed4e13884" title="souffle::AstVariable\l::getName" alt="" coords="800,206,948,247"/>
+<area shape="rect" id="node14" href="$namespacesouffle.html#a307bae61c898715dccb57c9732335000" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="790,133,958,160"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ast_atom.html#a9c726c597d7921245dd97dcc72b8aeed" title="Provides access to the list of arguments of this atom. " alt="" coords="759,293,989,320"/>
+<area shape="rect" id="node12" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="1048,323,1195,349"/>
+<area shape="rect" id="node15" href="$namespacesouffle.html#a030c754119d60ea72cff8af5b62710e6" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="1037,126,1205,167"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_ast_node.html#a07dd728cde93a2b1d72d987cf54cbd8e" title="Obtain a list of all embedded AST child nodes. " alt="" coords="1253,126,1444,167"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_ast_node.html#a118aba48ddc9006152aac63f08e0ff01" title="Output to a given output stream. " alt="" coords="1492,133,1659,160"/>
+<area shape="rect" id="node19" href="$namespacesouffle.html#a0654c08409f66fdca60d0cc668de83a5" title="Finds the new ordering of a vector of atoms after the given SIPS is applied. " alt="" coords="535,325,672,352"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1_ast_clause.html#a816caca57b3c972f754e61b0e93fa941" title="Obtains a list of contained body&#45;atoms. " alt="" coords="805,427,943,469"/>
+<area shape="rect" id="node21" href="$classsouffle_1_1_ast_clause.html#aa943423c45971e70c837da5b88c8fc04" title="Obtains the execution plan associated to this clause or null if there is none. " alt="" coords="532,442,675,483"/>
+<area shape="rect" id="node22" href="$classsouffle_1_1_ast_clause.html#a8c8bb94c830fe6b6ae48f7b88c161585" title="Re&#45;orders atoms to be in the given order. " alt="" coords="534,377,673,418"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="AstClause.h" name="AstClause.h">
+<area shape="rect" id="node2" href="$_ast_abstract_8h.html" title="AstAbstract.h" alt="" coords="1963,155,2072,181"/>
+<area shape="rect" id="node3" href="$_ast_node_8h.html" title="AstNode.h" alt="" coords="1862,229,1951,256"/>
+<area shape="rect" id="node7" href="$_util_8h.html" title="Util.h" alt="" coords="2115,304,2173,331"/>
+<area shape="rect" id="node37" href="$_ast_argument_8h.html" title="AstArgument.h" alt="" coords="1674,80,1793,107"/>
+<area shape="rect" id="node45" href="$_ast_literal_8h.html" title="AstLiteral.h" alt="" coords="2264,80,2360,107"/>
+<area shape="rect" id="node4" href="$_src_location_8h.html" title="SrcLocation.h" alt="" coords="1627,304,1736,331"/>
+<area shape="rect" id="node8" href="$_ram_types_8h.html" title="RamTypes.h" alt="" coords="477,379,579,405"/>
+<area shape="rect" id="node38" href="$_ast_type_8h.html" title="AstType.h" alt="" coords="1651,155,1736,181"/>
+<area shape="rect" id="node39" href="$_functor_ops_8h.html" title="FunctorOps.h" alt="" coords="533,304,640,331"/>
+<area shape="rect" id="node40" href="$_symbol_table_8h.html" title="SymbolTable.h" alt="" coords="841,229,959,256"/>
+<area shape="rect" id="node41" href="$_parallel_utils_8h.html" title="ParallelUtils.h" alt="" coords="1187,304,1299,331"/>
+<area shape="rect" id="node46" href="$_ast_relation_identifier_8h.html" title="AstRelationIdentifier.h" alt="" coords="2451,229,2616,256"/>
+<area shape="rect" id="node47" href="$_binary_constraint_ops_8h.html" title="BinaryConstraintOps.h" alt="" coords="240,304,408,331"/>
+</map>

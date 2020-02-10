@@ -1,0 +1,13 @@
+<map id="souffle::eqTypeRamTypeAttribute" name="souffle::eqTypeRamTypeAttribute">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a1a7d8cb2f6a29f825e650a7c98487718" title="Determines whether the given type is a float type. " alt="" coords="305,111,452,138"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#a4e502e6abb9a3e9a8e4c1168dbf23743" title="Determines whether the given type is a number type. " alt="" coords="295,61,462,87"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#a34c8a82b8d9ed840b32e93186002d18c" title="Determines whether the given type is a record type. " alt="" coords="299,263,458,290"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#a11f6c352eec6bde7b5a0b143ffe64e3b" title="Determines whether the given type is a symbol type. " alt="" coords="297,162,461,189"/>
+<area shape="rect" id="node11" href="$namespacesouffle.html#a5c4839a38da22a968ab01e81a67d793c" title="Determines whether the given type is a number type. " alt="" coords="291,213,467,239"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_type.html#a2bc9172d0ce6390a7960b24b16172c79" title="souffle::Type::getTypeEnvironment" alt="" coords="515,137,761,163"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_type_environment.html#a5569e54d58b6ca69f1fffbdd77143545" title="souffle::TypeEnvironment\l::getFloatType" alt="" coords="545,71,731,112"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_type_environment.html#a5586a154835d2bfc076b9d5fcc11a50f" title="souffle::TypeEnvironment\l::getNumberType" alt="" coords="545,5,731,47"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_type_environment.html#a72fa419d33bf813f22efabec629a4627" title="souffle::TypeEnvironment\l::getSymbolType" alt="" coords="545,188,731,229"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_type.html#a00437c665d598367ff16229c823c728f" title="souffle::Type::print" alt="" coords="809,195,952,222"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_type_environment.html#a0b191b7782e170a23b54f7ec347a32ab" title="souffle::TypeEnvironment\l::getUnsignedType" alt="" coords="545,253,731,295"/>
+</map>

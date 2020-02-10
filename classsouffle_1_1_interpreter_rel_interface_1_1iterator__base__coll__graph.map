@@ -1,0 +1,11 @@
+<map id="souffle::InterpreterRelInterface::iterator_base" name="souffle::InterpreterRelInterface::iterator_base">
+<area shape="rect" id="node2" href="$classsouffle_1_1_relation_1_1iterator__base.html" title="Abstract iterator class. " alt="" coords="523,747,667,942"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_interpreter_rel_interface.html" title="Wrapper class for interpreter relations. " alt="" coords="691,711,913,979"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1tuple.html" title="Defines a tuple for the OO interface such that relations with varying columns can be accessed..." alt="" coords="257,718,381,971"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_relation.html" title="Object&#45;oriented wrapper class for Souffle&#39;s templatized relations. " alt="" coords="377,380,534,648"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_interpreter_relation.html" title="A relation, composed of a collection of indexes. " alt="" coords="657,402,853,626"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_interpreter_index.html" title="An index is an abstraction of a data structure. " alt="" coords="381,5,559,288"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_symbol_table.html" title="Global pool of re&#45;usable strings. " alt="" coords="1109,387,1277,641"/>
+<area shape="rect" id="node17" href="$structsouffle_1_1_lock.html" title="A small utility class for implementing simple locks. " alt="" coords="1238,86,1342,207"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1_interpreter_relation_1_1_iterator.html" title="Support for&#45;each iteration for InterpreterRelation. " alt="" coords="1287,747,1483,942"/>
+</map>

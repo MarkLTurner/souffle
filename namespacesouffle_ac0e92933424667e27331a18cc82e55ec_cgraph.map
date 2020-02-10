@@ -1,0 +1,12 @@
+<map id="souffle::getNextAtomMaxBoundSIPS" name="souffle::getNextAtomMaxBoundSIPS">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a6f53082a60ed5593022bde81dc619ac9" title="souffle::contains" alt="" coords="878,83,1007,110"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_atom.html#a9c726c597d7921245dd97dcc72b8aeed" title="Provides access to the list of arguments of this atom. " alt="" coords="311,44,541,71"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_atom.html#a83a8f4fdc486c20a330570571ec34fb5" title="Return the name of this atom. " alt="" coords="327,95,525,122"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#a5048549cddd623327a828a4cc90fe746" title="souffle::isBoundArgument" alt="" coords="331,146,521,172"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="614,44,761,71"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#ae0c80a38e0b1c4617f373aba8d2c7198" title="souffle::hasPrefix" alt="" coords="620,146,755,172"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#a4d2a34e7c27740b381cf558eeebb28e4" title="souffle::isBoundComposite" alt="" coords="589,196,785,223"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ast_variable.html#a2b73a95c7b59624d956dee0ed4e13884" title="souffle::AstVariable\l::getName" alt="" coords="869,134,1017,176"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_binding_store.html#a9ce08dc8e33c130b291f57e9d72d0c78" title="souffle::BindingStore\l::getVariableDependencies" alt="" coords="845,200,1041,241"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_binding_store.html#a0da8360ecba6d9b26e9d075a0b285740" title="souffle::BindingStore\l::addVariableBoundComposite" alt="" coords="833,265,1052,306"/>
+</map>

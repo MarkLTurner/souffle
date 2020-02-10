@@ -1,0 +1,11 @@
+<map id="souffle::areSubtypesOf" name="souffle::areSubtypesOf">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a14b5f9eb9ec09c40e558b242e75de872" title="A generic test checking whether all elements within a container satisfy a certain predicate..." alt="" coords="245,71,356,98"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#a8cc19c66d9d13ce64e65f14dcabb43b3" title="Determines whether type a is a subtype of type b. " alt="" coords="224,122,377,149"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_type.html#a2bc9172d0ce6390a7960b24b16172c79" title="souffle::Type::getTypeEnvironment" alt="" coords="660,46,907,73"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_type_environment.html#ad76ba516b5c5acab7f895243a2cf6c00" title="souffle::TypeEnvironment\l::isType" alt="" coords="425,249,612,291"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_type_environment.html#a5586a154835d2bfc076b9d5fcc11a50f" title="souffle::TypeEnvironment\l::getNumberType" alt="" coords="690,104,877,145"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#a4e502e6abb9a3e9a8e4c1168dbf23743" title="Determines whether the given type is a number type. " alt="" coords="435,46,602,73"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_type_environment.html#a72fa419d33bf813f22efabec629a4627" title="souffle::TypeEnvironment\l::getSymbolType" alt="" coords="690,183,877,224"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#a11f6c352eec6bde7b5a0b143ffe64e3b" title="Determines whether the given type is a symbol type. " alt="" coords="437,97,601,123"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_type.html#a00437c665d598367ff16229c823c728f" title="souffle::Type::print" alt="" coords="955,190,1097,217"/>
+</map>

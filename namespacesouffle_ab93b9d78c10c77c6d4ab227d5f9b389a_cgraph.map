@@ -1,0 +1,7 @@
+<map id="souffle::hasClauseWithNegatedRelation" name="souffle::hasClauseWithNegatedRelation">
+<area shape="rect" id="node2" href="$namespacesouffle.html#ab18cbb3adc2ab328de0db30a3fddf7e0" title="Returns the relation referenced by the given atom. " alt="" coords="280,64,463,91"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_relation.html#ac5a2e5bef917c0dc9541d65de7eced6e" title="Obtains a list of the associated clauses. " alt="" coords="297,115,445,157"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_atom.html#a83a8f4fdc486c20a330570571ec34fb5" title="Return the name of this atom. " alt="" coords="511,5,709,32"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_program.html#a6a4814327ce4603e7e332b21188495e1" title="Find and return the relation in the program given its name. " alt="" coords="535,57,685,98"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="537,123,683,149"/>
+</map>

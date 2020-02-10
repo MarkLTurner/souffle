@@ -1,0 +1,6 @@
+<map id="souffle::WriteCoutPrintSize" name="souffle::WriteCoutPrintSize">
+<area shape="rect" id="node2" href="$classsouffle_1_1_write_stream.html" title="{souffle::WriteStream\n||+ writeAll()\l+ writeNext()\l+ writeSize()\l+ WriteStream()\l+ ~WriteStream()\l# writeNext()\l# writeNextTuple()\l# writeNextTupleElement()\l# writeNullary()\l# writeSize()\l}" alt="" coords="294,505,493,715"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_symbol_table.html" title="Global pool of re&#45;usable strings. " alt="" coords="155,189,323,443"/>
+<area shape="rect" id="node6" href="$structsouffle_1_1_lock.html" title="A small utility class for implementing simple locks. " alt="" coords="187,5,291,127"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_lock_1_1_lease.html" title="{souffle::Lock::Lease\n||}" alt="" coords="517,571,667,649"/>
+</map>

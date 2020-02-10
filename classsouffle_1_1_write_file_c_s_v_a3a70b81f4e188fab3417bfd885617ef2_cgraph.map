@@ -1,0 +1,6 @@
+<map id="souffle::WriteFileCSV::writeNextTuple" name="souffle::WriteFileCSV::writeNextTuple">
+<area shape="rect" id="node2" href="$classsouffle_1_1_i_o_directives.html#a49e203c1433828f27f7141cc84943a8e" title="souffle::IODirectives::get" alt="" coords="440,12,623,39"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_write_stream_c_s_v.html#a0e526881e929c60a1ab74d4f8c730398" title="souffle::WriteStreamCSV\l::getDelimiter" alt="" coords="209,31,391,73"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_i_o_directives.html#aca6a8bc2a8da8f1703d87ac116514799" title="souffle::IODirectives::has" alt="" coords="439,67,624,93"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_i_o_directives.html#ab6d6b4abf84b2097889788123305d558" title="souffle::IODirectives\l::getFileName" alt="" coords="223,149,377,190"/>
+</map>

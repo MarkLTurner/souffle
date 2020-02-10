@@ -1,0 +1,4 @@
+<map id="souffle::isNumberType" name="souffle::isNumberType">
+<area shape="rect" id="node2" href="$classsouffle_1_1_type_environment.html#a5586a154835d2bfc076b9d5fcc11a50f" title="souffle::TypeEnvironment\l::getNumberType" alt="" coords="250,5,437,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_type.html#a2bc9172d0ce6390a7960b24b16172c79" title="souffle::Type::getTypeEnvironment" alt="" coords="220,71,467,98"/>
+</map>

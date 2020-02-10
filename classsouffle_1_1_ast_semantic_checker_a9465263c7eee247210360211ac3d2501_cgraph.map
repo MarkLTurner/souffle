@@ -1,0 +1,22 @@
+<map id="souffle::AstSemanticChecker::checkInlining" name="souffle::AstSemanticChecker::checkInlining">
+<area shape="rect" id="node2" href="$classsouffle_1_1_error_report.html#a699dc9231cef74ac54573e3c79de7143" title="Adds an error with the given message and location. " alt="" coords="289,7,436,48"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#a1e94107c840a65c6cfe9071eb09d5c16" title="Find a cycle consisting entirely of inlined relations. " alt="" coords="277,126,448,153"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_relation.html#aa3d9c18d8e03ea29537f980553c28777" title="Return the name of the relation. " alt="" coords="537,71,685,112"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_negation.html#a0737c379dac1c350accecb1e2301698c" title="Returns the nested atom as the referenced atom. " alt="" coords="285,177,440,219"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_node.html#a07dd728cde93a2b1d72d987cf54cbd8e" title="Obtain a list of all embedded AST child nodes. " alt="" coords="759,463,949,504"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ast_atom.html#a83a8f4fdc486c20a330570571ec34fb5" title="Return the name of this atom. " alt="" coords="263,294,462,321"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ast_program.html#a6a4814327ce4603e7e332b21188495e1" title="Find and return the relation in the program given its name. " alt="" coords="287,345,438,387"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_ast_program.html#a60f36f5095adbc63611de05e52075ff7" title="Get all relations in the program. " alt="" coords="287,411,438,452"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_ast_node.html#ae84bf084ceca6ac36dc4be406f42870f" title="Return source location of the AstNode. " alt="" coords="263,477,463,503"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_ast_relation.html#a31bb7e85575b46ca3bc029b0ff9b769f" title="Check whether relation is an inlined relation. " alt="" coords="289,528,437,569"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_i_o_type.html#ac8a8522244b6a6b6a276ee461171e55a" title="souffle::IOType::isIO" alt="" coords="287,594,438,621"/>
+<area shape="rect" id="node19" href="$namespacesouffle.html#aecc08c83ad9634fc515b7aa094702949" title="A generic function converting strings into strings (trivial case). " alt="" coords="300,645,425,671"/>
+<area shape="rect" id="node20" href="$namespacesouffle.html#a307bae61c898715dccb57c9732335000" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="279,695,447,722"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_diagnostic_message.html#ad3fd6ab90856d9cdd9bbba3140440362" title="souffle::DiagnosticMessage\l::DiagnosticMessage" alt="" coords="511,5,711,47"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_precedence_graph.html#aeae99542b6e88834762fbef7e239a2b5" title="souffle::PrecedenceGraph\l::graph" alt="" coords="517,136,705,177"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ast_node.html#a118aba48ddc9006152aac63f08e0ff01" title="Output to a given output stream. " alt="" coords="997,470,1164,497"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_i_o_type.html#a802a8fbac8c20b25f4b85acb23c26bc0" title="souffle::IOType::isInput" alt="" coords="525,535,696,562"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_i_o_type.html#af6eeaf8c4708b6f593addcc6f3604518" title="souffle::IOType::isOutput" alt="" coords="520,586,701,613"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1_i_o_type.html#ab79082869df16c30dac754566427c41f" title="souffle::IOType::isPrintSize" alt="" coords="513,637,708,663"/>
+<area shape="rect" id="node21" href="$namespacesouffle.html#a030c754119d60ea72cff8af5b62710e6" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="527,688,695,729"/>
+</map>
